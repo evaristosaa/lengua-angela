@@ -10,6 +10,8 @@ interface HomePageProps {
   onOpenParents: () => void;
 }
 
+const unicornImage = `${import.meta.env.BASE_URL}assets/unicorn/rainbow-unicorn-comic.png`;
+
 export default function HomePage({
   onOpenMap,
   onOpenUnicorn,
@@ -32,7 +34,7 @@ export default function HomePage({
           <span className="home-rainbow-cloud home-rainbow-cloud--left" />
           <span className="home-rainbow-cloud home-rainbow-cloud--right" />
         </div>
-        <img className="home-comic-unicorn" src="/assets/unicorn/rainbow-unicorn-comic.png" alt="" />
+        <img className="home-comic-unicorn" src={unicornImage} alt="" />
 
         <div className="home-title-wrap" aria-label="Angela y el Reino Arcoiris de las Palabras">
           <span className="home-title-line">Angela y el Reino Arcoiris</span>
