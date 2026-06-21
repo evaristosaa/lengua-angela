@@ -1,0 +1,46 @@
+[
+  {
+    "id": "puente-3-4",
+    "title": "Puerta del Repaso de 3º",
+    "theme": "La entrada al Reino Arcoiris de las Palabras",
+    "description": "Retos cortos para recordar lo aprendido en 3º y entrar con fuerza en 4º.",
+    "priority": 1,
+    "unlockRule": "available-start",
+    "rewardPart": "primer color arcoiris",
+    "missionIds": ["mision-diaria-puente"],
+    "recommendedGradeFocus": "Repaso general de comprensión, vocabulario, gramática y ortografía"
+  },
+  {
+    "id": "ortografia",
+    "title": "Torre de la Ortografía",
+    "theme": "Palabras del Reino que necesitan tildes y letras correctas",
+    "description": "Retos de tildes, b/v, h, mayúsculas y signos.",
+    "priority": 2,
+    "unlockRule": "complete:mision-diaria-puente",
+    "rewardPart": "tildes brillantes",
+    "missionIds": [],
+    "recommendedGradeFocus": "Ortografía de 4 de Primaria"
+  },
+  {
+    "id": "gramatica",
+    "title": "Castillo de la Gramática",
+    "theme": "Frases que se ordenan como torres del Reino",
+    "description": "Sustantivos, adjetivos, verbos, sujeto y predicado.",
+    "priority": 3,
+    "unlockRule": "complete:mision-diaria-puente",
+    "rewardPart": "corona de frases",
+    "missionIds": [],
+    "recommendedGradeFocus": "Gramática básica y análisis de oraciones"
+  },
+  {
+    "id": "comprension",
+    "title": "Valle de la Comprensión",
+    "theme": "Rutas con pistas escondidas en los textos del Reino",
+    "description": "Ideas principales, detalles, inferencias y vocabulario.",
+    "priority": 4,
+    "unlockRule": "complete:mision-diaria-puente",
+    "rewardPart": "comprensión lectora",
+    "missionIds": [],
+    "recommendedGradeFocus": "Comprensión de cuentos, fábulas y textos breves"
+  }
+]

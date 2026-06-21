@@ -1,0 +1,206 @@
+[
+  {
+    "id": "puente-001",
+    "worldId": "puente-3-4",
+    "skillId": "comprension-idea-principal",
+    "type": "multiple-choice",
+    "prompt": "¿Por qué Angela empieza la búsqueda por los cuatro mundos?",
+    "options": [
+      { "id": "a", "label": "Porque Arcoiris ha desaparecido y necesita ayuda." },
+      { "id": "b", "label": "Porque quiere comprar una mochila nueva." },
+      { "id": "c", "label": "Porque se ha perdido en el patio." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "La carta dice que Arcoiris ha desaparecido y que Angela debe cruzar los cuatro mundos.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-001",
+    "tags": ["lectura", "idea-principal"]
+  },
+  {
+    "id": "puente-002",
+    "worldId": "puente-3-4",
+    "skillId": "comprension-detalle",
+    "type": "multiple-choice",
+    "prompt": "¿Dónde empieza Angela su aventura?",
+    "options": [
+      { "id": "a", "label": "En el Castillo de la Gramática." },
+      { "id": "b", "label": "En la Puerta del Repaso de 3º." },
+      { "id": "c", "label": "Dentro de una mochila." }
+    ],
+    "correctAnswer": "b",
+    "explanation": "El texto cuenta que el portal deja a Angela ante la Puerta del Repaso de 3º.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-002",
+    "tags": ["lectura", "detalle"]
+  },
+  {
+    "id": "puente-003",
+    "worldId": "puente-3-4",
+    "skillId": "vocabulario-contexto",
+    "type": "multiple-choice",
+    "prompt": "¿Qué pista encuentra Angela al abrir la Puerta del Repaso?",
+    "options": [
+      { "id": "a", "label": "Una huella plateada con forma de herradura." },
+      { "id": "b", "label": "Una mochila nueva llena de libros." },
+      { "id": "c", "label": "Un mapa para volver al colegio." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Al abrirse la puerta, aparece una huella plateada con forma de herradura.",
+    "difficulty": 2,
+    "textContentId": "historia-arcoiris-003",
+    "tags": ["lectura", "vocabulario"]
+  },
+  {
+    "id": "puente-004",
+    "worldId": "puente-3-4",
+    "skillId": "ortografia-tilde",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra del texto está escrita correctamente?",
+    "options": [
+      { "id": "a", "label": "magico" },
+      { "id": "b", "label": "mágico" },
+      { "id": "c", "label": "májico" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "\"Mágico\" lleva tilde porque es esdrújula.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-004",
+    "tags": ["ortografia", "tildes"]
+  },
+  {
+    "id": "puente-005",
+    "worldId": "puente-3-4",
+    "skillId": "gramatica-sustantivo",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál de estas palabras del texto es un sustantivo?",
+    "options": [
+      { "id": "a", "label": "brillar" },
+      { "id": "b", "label": "mágica" },
+      { "id": "c", "label": "libro" }
+    ],
+    "correctAnswer": "c",
+    "explanation": "\"Libro\" nombra un objeto; por eso es sustantivo.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-005",
+    "tags": ["gramatica", "sustantivos"]
+  },
+  {
+    "id": "puente-006",
+    "worldId": "puente-3-4",
+    "skillId": "gramatica-verbo",
+    "type": "multiple-choice",
+    "prompt": "En \"Arcoiris salta sobre una nube\", ¿cuál es el verbo?",
+    "options": [
+      { "id": "a", "label": "Arcoiris" },
+      { "id": "b", "label": "salta" },
+      { "id": "c", "label": "nube" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "\"Salta\" expresa una acción.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-006",
+    "tags": ["gramatica", "verbos"]
+  },
+  {
+    "id": "puente-007",
+    "worldId": "puente-3-4",
+    "skillId": "ortografia-mayusculas",
+    "type": "multiple-choice",
+    "prompt": "¿Qué frase usa bien la mayúscula?",
+    "options": [
+      { "id": "a", "label": "angela cuida a Arcoiris." },
+      { "id": "b", "label": "Angela cuida a Arcoiris." },
+      { "id": "c", "label": "Angela Cuida A Arcoiris." }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Angela es un nombre propio y debe empezar con mayúscula.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-007",
+    "tags": ["ortografia", "mayusculas"]
+  },
+  {
+    "id": "puente-008",
+    "worldId": "puente-3-4",
+    "skillId": "gramatica-adjetivo",
+    "type": "multiple-choice",
+    "prompt": "En \"pluma brillante\", ¿qué palabra es el adjetivo?",
+    "options": [
+      { "id": "a", "label": "pluma" },
+      { "id": "b", "label": "brillante" },
+      { "id": "c", "label": "en" }
+    ],
+    "correctAnswer": "b",
+    "explanation": "\"Brillante\" dice cómo es la pluma.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-008",
+    "tags": ["gramatica", "adjetivos"]
+  },
+  {
+    "id": "puente-009",
+    "worldId": "puente-3-4",
+    "skillId": "vocabulario-sinonimos",
+    "type": "multiple-choice",
+    "prompt": "Según el texto, ¿qué palabra se parece a \"valiente\"?",
+    "options": [
+      { "id": "a", "label": "atrevida" },
+      { "id": "b", "label": "dormida" },
+      { "id": "c", "label": "pequeña" }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto dice que el unicornio dio un salto atrevido.",
+    "difficulty": 1,
+    "textContentId": "historia-arcoiris-009",
+    "tags": ["vocabulario", "sinonimos"]
+  },
+  {
+    "id": "puente-010",
+    "worldId": "puente-3-4",
+    "skillId": "ortografia-bv",
+    "type": "multiple-choice",
+    "prompt": "Completa la palabra del texto: Arcoiris vuelve a ___rillar.",
+    "options": [
+      { "id": "a", "label": "brillar" },
+      { "id": "b", "label": "vrillar" },
+      { "id": "c", "label": "briyar" }
+    ],
+    "correctAnswer": "a",
+    "explanation": "\"Brillar\" se escribe con b y con ll.",
+    "difficulty": 2,
+    "textContentId": "historia-arcoiris-010",
+    "tags": ["ortografia", "b-v"]
+  },
+  {
+    "id": "puente-011",
+    "worldId": "puente-3-4",
+    "skillId": "gramatica-sujeto",
+    "type": "multiple-choice",
+    "prompt": "En \"Angela recupera el color\", ¿cuál es el sujeto?",
+    "options": [
+      { "id": "a", "label": "Angela" },
+      { "id": "b", "label": "recupera" },
+      { "id": "c", "label": "el color" }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El sujeto indica quién realiza la acción.",
+    "difficulty": 2,
+    "textContentId": "historia-arcoiris-011",
+    "tags": ["gramatica", "sujeto"]
+  },
+  {
+    "id": "puente-012",
+    "worldId": "puente-3-4",
+    "skillId": "comprension-inferencia",
+    "type": "multiple-choice",
+    "prompt": "¿Qué consiguió Angela con cada respuesta cuidada?",
+    "options": [
+      { "id": "a", "label": "Devolver un pedacito de magia a Arcoiris." },
+      { "id": "b", "label": "Esconder el libro mágico." },
+      { "id": "c", "label": "Apagar los colores de la crin." }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto dice que cada respuesta cuidada devolvió magia al unicornio.",
+    "difficulty": 2,
+    "textContentId": "historia-arcoiris-012",
+    "tags": ["lectura", "inferencia"]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "historia-arcoiris-001",
+    "type": "cuento",
+    "title": "La carta brillante",
+    "body": "Angela encontró una carta cubierta de purpurina dentro de su mochila. Al abrirla, una nube de colores dibujó un portal hacia el Reino Arcoiris de las Palabras. La carta decía: \"Arcoiris, el unicornio guardián, ha desaparecido. Para encontrarlo, cruza los cuatro mundos y recupera las pistas que esconden las palabras\".",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-001"]
+  },
+  {
+    "id": "historia-arcoiris-002",
+    "type": "cuento",
+    "title": "La Puerta del Repaso",
+    "body": "El portal dejó a Angela ante la Puerta del Repaso de 3º. La entrada estaba cerrada con candados de colores y cada candado recordaba algo aprendido: leer con atención, entender detalles, reconocer palabras importantes y pensar antes de responder. Si superaba la puerta, recibiría la primera pista de Arcoiris.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-002"]
+  },
+  {
+    "id": "historia-arcoiris-003",
+    "type": "cuento",
+    "title": "La primera pista",
+    "body": "Al resolver los retos del repaso, la puerta se abrió con un sonido de campanillas. En el suelo apareció una huella plateada con forma de herradura. Angela comprendió que Arcoiris no estaba perdido por casualidad: alguien había apagado sus colores y lo había guiado hacia la Torre de la Ortografía.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-003"]
+  },
+  {
+    "id": "historia-arcoiris-004",
+    "type": "cuento",
+    "title": "La Torre de la Ortografía",
+    "body": "Angela subió a la Torre de la Ortografía, donde las palabras flotaban sin tildes y algunas letras se habían escapado de su sitio. En una nube pequeña brillaba la palabra \"mágico\". La torre solo entregaría la siguiente pista si Angela cuidaba cada tilde como si fuera una chispa de la crin de Arcoiris.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-004"]
+  },
+  {
+    "id": "historia-arcoiris-005",
+    "type": "cuento",
+    "title": "La cesta de palabras",
+    "body": "En una sala redonda apareció una cesta encantada con un libro, una pluma, una campana y una nube dormida. Cada objeto tenía un nombre y cada nombre encendía una luz diferente. Angela recordó que, para seguir buscando al unicornio, primero debía reconocer bien las palabras que nombran personas, animales, lugares y cosas.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-005"]
+  },
+  {
+    "id": "historia-arcoiris-006",
+    "type": "cuento",
+    "title": "La frase que salta",
+    "body": "La torre mostró una frase escrita con polvo azul: \"Arcoiris salta sobre una nube\". Aunque Angela aún no veía al unicornio, la frase se movía como si él hubiera pasado por allí hacía muy poco. Para abrir la ventana secreta de la torre, tenía que encontrar la palabra que indicaba la acción.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-006"]
+  },
+  {
+    "id": "historia-arcoiris-007",
+    "type": "cuento",
+    "title": "El Castillo de la Gramática",
+    "body": "La ventana secreta llevó a Angela hasta el Castillo de la Gramática. En la puerta apareció escrito \"angela cuida a Arcoiris\", pero la frase sonaba desafinada. Las murallas del castillo solo dejaban pasar a quien ordenaba bien las palabras y trataba los nombres propios con el respeto de una letra mayúscula.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-007"]
+  },
+  {
+    "id": "historia-arcoiris-008",
+    "type": "cuento",
+    "title": "La pluma brillante",
+    "body": "Dentro del castillo, Angela encontró una pluma brillante atrapada en una vidriera. Al tocarla, la pluma escribió una pista: \"Busca en el valle donde los cuentos guardan secretos\". La palabra brillante no nombraba la pluma, sino que decía cómo era. Esa pista gramatical iluminó otro trozo del camino.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-008"]
+  },
+  {
+    "id": "historia-arcoiris-009",
+    "type": "cuento",
+    "title": "El salto valiente",
+    "body": "Para salir del castillo, Angela tuvo que cruzar el Puente de Algodón. El viento soplaba fuerte y las nubes se movían bajo sus pies, pero ella pensó en Arcoiris esperando ayuda. Ser valiente no significaba no tener miedo, sino avanzar aunque el corazón hiciera cosquillas.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-009"]
+  },
+  {
+    "id": "historia-arcoiris-010",
+    "type": "cuento",
+    "title": "El Valle de la Comprensión",
+    "body": "Al otro lado del puente se abrió el Valle de la Comprensión Lectora. Allí no bastaba con leer deprisa: había que buscar pistas, relacionar ideas y descubrir lo que el texto no decía directamente. En una piedra apareció una palabra incompleta: \"Arcoiris vuelve a ___rillar\".",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-010"]
+  },
+  {
+    "id": "historia-arcoiris-011",
+    "type": "cuento",
+    "title": "La última oración",
+    "body": "En el centro del valle, unas luciérnagas formaron la oración: \"Angela recupera el color\". Entonces Angela entendió la pista: ella no era una visitante cualquiera, era la protagonista de la búsqueda. Si descubría quién realizaba la acción, el valle le mostraría dónde estaba escondido el unicornio.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-011"]
+  },
+  {
+    "id": "historia-arcoiris-012",
+    "type": "cuento",
+    "title": "El encuentro con Arcoiris",
+    "body": "Las pistas de los cuatro mundos se unieron y señalaron una cueva de nubes suaves. Allí estaba Arcoiris, el unicornio arcoiris, con la crin apagada pero los ojos llenos de esperanza. Cada respuesta cuidada de Angela devolvió un color a su crin, hasta que el reino volvió a brillar.",
+    "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": ["puente-012"]
+  }
+]

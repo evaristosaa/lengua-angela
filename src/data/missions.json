@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mision-diaria-puente",
+    "worldId": "puente-3-4",
+    "title": "El primer color del Reino",
+    "storyIntro": "Angela llega a la puerta del Reino Arcoiris de las Palabras. Para abrirla necesita recordar lo más importante de 3º.",
+    "goal": "Completa una misión corta de repaso de 3º y consigue el primer color del Reino.",
+    "estimatedMinutes": 10,
+    "activityIds": [
+      "puente-001",
+      "puente-002",
+      "puente-003",
+      "puente-004",
+      "puente-005",
+      "puente-006",
+      "puente-007",
+      "puente-008",
+      "puente-009",
+      "puente-010",
+      "puente-011",
+      "puente-012"
+    ],
+    "minigameType": "daily-mission",
+    "reward": {
+      "stars": 50,
+      "gems": 10,
+      "books": 1,
+      "wands": 1,
+      "unicornPart": "primer color arcoiris",
+      "message": "El primer color del Reino vuelve a brillar."
+    },
+    "completionCriteria": {
+      "minCorrect": 8
+    }
+  }
+]

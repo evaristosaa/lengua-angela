@@ -1,0 +1,17 @@
+{
+  "name": "Angela y el Reino Arcoiris de las Palabras",
+  "short_name": "Angela Arcoiris",
+  "description": "Aventura educativa de Lengua Castellana para 4 de Primaria.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff4a8",
+  "theme_color": "#7c4dff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
