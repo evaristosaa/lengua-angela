@@ -103,19 +103,19 @@
 
 ### Implementation for User Story 3
 
-- [ ] T045 [P] [US3] Add at least 16 orthography activities to `src/data/activities.json`
-- [ ] T046 [P] [US3] Add at least 16 grammar activities to `src/data/activities.json`
-- [ ] T047 [P] [US3] Add at least 16 reading comprehension activities to `src/data/activities.json`
-- [ ] T048 [P] [US3] Add at least 5 additional age-appropriate reading texts to `src/data/texts.json`
-- [ ] T049 [US3] Add orthography missions for Torre de la Ortografia in `src/data/missions.json`
-- [ ] T050 [US3] Add grammar missions for Castillo de la Gramatica in `src/data/missions.json`
-- [ ] T051 [US3] Add comprehension missions for Valle de la Comprension Lectora in `src/data/missions.json`
+- [X] T045 [P] [US3] Add at least 16 orthography activities to `src/data/activities.json`
+- [X] T046 [P] [US3] Add at least 16 grammar activities to `src/data/activities.json`
+- [X] T047 [P] [US3] Add at least 16 reading comprehension activities to `src/data/activities.json`
+- [X] T048 [P] [US3] Add at least 5 additional age-appropriate reading texts to `src/data/texts.json`
+- [X] T049 [US3] Add orthography missions for Torre de la Ortografia in `src/data/missions.json`
+- [X] T050 [US3] Add grammar missions for Castillo de la Gramatica in `src/data/missions.json`
+- [X] T051 [US3] Add comprehension missions for Valle de la Comprension Lectora in `src/data/missions.json`
 - [X] T052 [US3] Extend scoring to update SkillMastery by skill in `src/domain/scoring.ts`
-- [ ] T053 [US3] Add repeated-error recommendation logic in `src/domain/progress.ts`
+- [X] T053 [US3] Add repeated-error recommendation logic in `src/domain/progress.ts`
 - [X] T054 [US3] Render feedback explanations consistently in `src/pages/MissionPage.tsx`
-- [ ] T055 [US3] Add content validation for minimum 60 activities and 6 texts in `tests/content/content-validation.test.ts`
+- [X] T055 [US3] Add content validation for minimum 60 activities and 6 texts in `tests/content/content-validation.test.ts`
 - [X] T056 [US3] Add domain tests for scoring and mastery updates in `tests/domain/scoring.test.ts`
-- [ ] T057 [US3] Validate US3 acceptance scenarios from `specs/001-repasa-lengua-angela/spec.md`
+- [X] T057 [US3] Validate US3 acceptance scenarios from `specs/001-repasa-lengua-angela/spec.md`
 
 **Checkpoint**: MVP educational content is real enough for repeated use.
 

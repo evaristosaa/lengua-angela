@@ -32,5 +32,119 @@
     "completionCriteria": {
       "minCorrect": 8
     }
+  },
+  {
+    "id": "mision-ortografia-torre",
+    "worldId": "ortografia",
+    "title": "La Torre de las Tildes Traviesas",
+    "storyIntro": "Angela sube a la Torre de la Ortografía para devolver orden a palabras que han perdido tildes, letras y signos.",
+    "goal": "Practica tildes, letras difíciles, mayúsculas y puntuación con retos cortos.",
+    "estimatedMinutes": 12,
+    "activityIds": [
+      "ortografia-001",
+      "ortografia-002",
+      "ortografia-003",
+      "ortografia-004",
+      "ortografia-005",
+      "ortografia-006",
+      "ortografia-007",
+      "ortografia-008",
+      "ortografia-009",
+      "ortografia-010",
+      "ortografia-011",
+      "ortografia-012",
+      "ortografia-013",
+      "ortografia-014",
+      "ortografia-015",
+      "ortografia-016"
+    ],
+    "minigameType": "orthography-tower",
+    "reward": {
+      "stars": 70,
+      "gems": 12,
+      "books": 0,
+      "wands": 1,
+      "unicornPart": "tildes brillantes",
+      "message": "Las tildes brillantes vuelven a la crin de Arcoiris."
+    },
+    "completionCriteria": {
+      "minCorrect": 11
+    }
+  },
+  {
+    "id": "mision-gramatica-castillo",
+    "worldId": "gramatica",
+    "title": "El Castillo de las Frases Claras",
+    "storyIntro": "En el castillo, cada palabra tiene un trabajo. Angela debe ordenar sustantivos, verbos y oraciones para bajar el puente levadizo.",
+    "goal": "Reconoce clases de palabras, sujeto, predicado, concordancia y tipos de oración.",
+    "estimatedMinutes": 12,
+    "activityIds": [
+      "gramatica-001",
+      "gramatica-002",
+      "gramatica-003",
+      "gramatica-004",
+      "gramatica-005",
+      "gramatica-006",
+      "gramatica-007",
+      "gramatica-008",
+      "gramatica-009",
+      "gramatica-010",
+      "gramatica-011",
+      "gramatica-012",
+      "gramatica-013",
+      "gramatica-014",
+      "gramatica-015",
+      "gramatica-016"
+    ],
+    "minigameType": "grammar-castle",
+    "reward": {
+      "stars": 70,
+      "gems": 12,
+      "books": 1,
+      "wands": 0,
+      "unicornPart": "corona de frases",
+      "message": "La corona de frases claras aparece junto al unicornio."
+    },
+    "completionCriteria": {
+      "minCorrect": 11
+    }
+  },
+  {
+    "id": "mision-comprension-valle",
+    "worldId": "comprension",
+    "title": "El Valle de las Pistas Escondidas",
+    "storyIntro": "Angela entra en el valle donde los textos esconden caminos, detalles e inferencias.",
+    "goal": "Lee dos textos breves y responde preguntas de idea principal, detalles, vocabulario e inferencias.",
+    "estimatedMinutes": 12,
+    "activityIds": [
+      "comprension-001",
+      "comprension-002",
+      "comprension-003",
+      "comprension-004",
+      "comprension-005",
+      "comprension-006",
+      "comprension-007",
+      "comprension-008",
+      "comprension-009",
+      "comprension-010",
+      "comprension-011",
+      "comprension-012",
+      "comprension-013",
+      "comprension-014",
+      "comprension-015",
+      "comprension-016"
+    ],
+    "minigameType": "reading-valley",
+    "reward": {
+      "stars": 70,
+      "gems": 12,
+      "books": 1,
+      "wands": 0,
+      "unicornPart": "comprensión lectora",
+      "message": "La estela lectora de Arcoiris vuelve a iluminar el valle."
+    },
+    "completionCriteria": {
+      "minCorrect": 11
+    }
   }
 ]

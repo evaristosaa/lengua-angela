@@ -72,6 +72,29 @@ export function getRecommendedWorld(worlds: World[], progress: LearnerProgress):
   );
 }
 
+export function getRepeatedErrorRecommendations(
+  progress: LearnerProgress,
+  activities: Activity[],
+  limit = 5
+): Activity[] {
+  const weakSkillIds = Object.values(progress.skillMastery)
+    .filter((skill) => skill.attempts >= 2 && skill.correct / skill.attempts < 0.7)
+    .sort((a, b) => b.recentMistakes.length - a.recentMistakes.length || a.correct / a.attempts - b.correct / b.attempts)
+    .map((skill) => skill.skillId);
+
+  const recommended: Activity[] = [];
+  for (const skillId of weakSkillIds) {
+    for (const activity of activities) {
+      if (activity.skillId === skillId && !recommended.some((item) => item.id === activity.id)) {
+        recommended.push(activity);
+        if (recommended.length >= limit) return recommended;
+      }
+    }
+  }
+
+  return recommended;
+}
+
 export function updateSkillMastery(
   mastery: SkillMastery | undefined,
   activity: Activity,

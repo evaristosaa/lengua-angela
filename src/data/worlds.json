@@ -7,7 +7,9 @@
     "priority": 1,
     "unlockRule": "available-start",
     "rewardPart": "primer color arcoiris",
-    "missionIds": ["mision-diaria-puente"],
+    "missionIds": [
+      "mision-diaria-puente"
+    ],
     "recommendedGradeFocus": "Repaso general de comprensión, vocabulario, gramática y ortografía"
   },
   {
@@ -18,7 +20,9 @@
     "priority": 2,
     "unlockRule": "complete:mision-diaria-puente",
     "rewardPart": "tildes brillantes",
-    "missionIds": [],
+    "missionIds": [
+      "mision-ortografia-torre"
+    ],
     "recommendedGradeFocus": "Ortografía de 4 de Primaria"
   },
   {
@@ -29,7 +33,9 @@
     "priority": 3,
     "unlockRule": "complete:mision-diaria-puente",
     "rewardPart": "corona de frases",
-    "missionIds": [],
+    "missionIds": [
+      "mision-gramatica-castillo"
+    ],
     "recommendedGradeFocus": "Gramática básica y análisis de oraciones"
   },
   {
@@ -40,7 +46,9 @@
     "priority": 4,
     "unlockRule": "complete:mision-diaria-puente",
     "rewardPart": "comprensión lectora",
-    "missionIds": [],
+    "missionIds": [
+      "mision-comprension-valle"
+    ],
     "recommendedGradeFocus": "Comprensión de cuentos, fábulas y textos breves"
   }
 ]

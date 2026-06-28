@@ -6,15 +6,27 @@
     "type": "multiple-choice",
     "prompt": "¿Por qué Angela empieza la búsqueda por los cuatro mundos?",
     "options": [
-      { "id": "a", "label": "Porque Arcoiris ha desaparecido y necesita ayuda." },
-      { "id": "b", "label": "Porque quiere comprar una mochila nueva." },
-      { "id": "c", "label": "Porque se ha perdido en el patio." }
+      {
+        "id": "a",
+        "label": "Porque Arcoiris ha desaparecido y necesita ayuda."
+      },
+      {
+        "id": "b",
+        "label": "Porque quiere comprar una mochila nueva."
+      },
+      {
+        "id": "c",
+        "label": "Porque se ha perdido en el patio."
+      }
     ],
     "correctAnswer": "a",
     "explanation": "La carta dice que Arcoiris ha desaparecido y que Angela debe cruzar los cuatro mundos.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-001",
-    "tags": ["lectura", "idea-principal"]
+    "tags": [
+      "lectura",
+      "idea-principal"
+    ]
   },
   {
     "id": "puente-002",
@@ -23,15 +35,27 @@
     "type": "multiple-choice",
     "prompt": "¿Dónde empieza Angela su aventura?",
     "options": [
-      { "id": "a", "label": "En el Castillo de la Gramática." },
-      { "id": "b", "label": "En la Puerta del Repaso de 3º." },
-      { "id": "c", "label": "Dentro de una mochila." }
+      {
+        "id": "a",
+        "label": "En el Castillo de la Gramática."
+      },
+      {
+        "id": "b",
+        "label": "En la Puerta del Repaso de 3º."
+      },
+      {
+        "id": "c",
+        "label": "Dentro de una mochila."
+      }
     ],
     "correctAnswer": "b",
     "explanation": "El texto cuenta que el portal deja a Angela ante la Puerta del Repaso de 3º.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-002",
-    "tags": ["lectura", "detalle"]
+    "tags": [
+      "lectura",
+      "detalle"
+    ]
   },
   {
     "id": "puente-003",
@@ -40,15 +64,27 @@
     "type": "multiple-choice",
     "prompt": "¿Qué pista encuentra Angela al abrir la Puerta del Repaso?",
     "options": [
-      { "id": "a", "label": "Una huella plateada con forma de herradura." },
-      { "id": "b", "label": "Una mochila nueva llena de libros." },
-      { "id": "c", "label": "Un mapa para volver al colegio." }
+      {
+        "id": "a",
+        "label": "Una huella plateada con forma de herradura."
+      },
+      {
+        "id": "b",
+        "label": "Una mochila nueva llena de libros."
+      },
+      {
+        "id": "c",
+        "label": "Un mapa para volver al colegio."
+      }
     ],
     "correctAnswer": "a",
     "explanation": "Al abrirse la puerta, aparece una huella plateada con forma de herradura.",
     "difficulty": 2,
     "textContentId": "historia-arcoiris-003",
-    "tags": ["lectura", "vocabulario"]
+    "tags": [
+      "lectura",
+      "vocabulario"
+    ]
   },
   {
     "id": "puente-004",
@@ -57,15 +93,27 @@
     "type": "multiple-choice",
     "prompt": "¿Qué palabra del texto está escrita correctamente?",
     "options": [
-      { "id": "a", "label": "magico" },
-      { "id": "b", "label": "mágico" },
-      { "id": "c", "label": "májico" }
+      {
+        "id": "a",
+        "label": "magico"
+      },
+      {
+        "id": "b",
+        "label": "mágico"
+      },
+      {
+        "id": "c",
+        "label": "májico"
+      }
     ],
     "correctAnswer": "b",
     "explanation": "\"Mágico\" lleva tilde porque es esdrújula.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-004",
-    "tags": ["ortografia", "tildes"]
+    "tags": [
+      "ortografia",
+      "tildes"
+    ]
   },
   {
     "id": "puente-005",
@@ -74,15 +122,27 @@
     "type": "multiple-choice",
     "prompt": "¿Cuál de estas palabras del texto es un sustantivo?",
     "options": [
-      { "id": "a", "label": "brillar" },
-      { "id": "b", "label": "mágica" },
-      { "id": "c", "label": "libro" }
+      {
+        "id": "a",
+        "label": "brillar"
+      },
+      {
+        "id": "b",
+        "label": "mágica"
+      },
+      {
+        "id": "c",
+        "label": "libro"
+      }
     ],
     "correctAnswer": "c",
     "explanation": "\"Libro\" nombra un objeto; por eso es sustantivo.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-005",
-    "tags": ["gramatica", "sustantivos"]
+    "tags": [
+      "gramatica",
+      "sustantivos"
+    ]
   },
   {
     "id": "puente-006",
@@ -91,15 +151,27 @@
     "type": "multiple-choice",
     "prompt": "En \"Arcoiris salta sobre una nube\", ¿cuál es el verbo?",
     "options": [
-      { "id": "a", "label": "Arcoiris" },
-      { "id": "b", "label": "salta" },
-      { "id": "c", "label": "nube" }
+      {
+        "id": "a",
+        "label": "Arcoiris"
+      },
+      {
+        "id": "b",
+        "label": "salta"
+      },
+      {
+        "id": "c",
+        "label": "nube"
+      }
     ],
     "correctAnswer": "b",
     "explanation": "\"Salta\" expresa una acción.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-006",
-    "tags": ["gramatica", "verbos"]
+    "tags": [
+      "gramatica",
+      "verbos"
+    ]
   },
   {
     "id": "puente-007",
@@ -108,15 +180,27 @@
     "type": "multiple-choice",
     "prompt": "¿Qué frase usa bien la mayúscula?",
     "options": [
-      { "id": "a", "label": "angela cuida a Arcoiris." },
-      { "id": "b", "label": "Angela cuida a Arcoiris." },
-      { "id": "c", "label": "Angela Cuida A Arcoiris." }
+      {
+        "id": "a",
+        "label": "angela cuida a Arcoiris."
+      },
+      {
+        "id": "b",
+        "label": "Angela cuida a Arcoiris."
+      },
+      {
+        "id": "c",
+        "label": "Angela Cuida A Arcoiris."
+      }
     ],
     "correctAnswer": "b",
     "explanation": "Angela es un nombre propio y debe empezar con mayúscula.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-007",
-    "tags": ["ortografia", "mayusculas"]
+    "tags": [
+      "ortografia",
+      "mayusculas"
+    ]
   },
   {
     "id": "puente-008",
@@ -125,15 +209,27 @@
     "type": "multiple-choice",
     "prompt": "En \"pluma brillante\", ¿qué palabra es el adjetivo?",
     "options": [
-      { "id": "a", "label": "pluma" },
-      { "id": "b", "label": "brillante" },
-      { "id": "c", "label": "en" }
+      {
+        "id": "a",
+        "label": "pluma"
+      },
+      {
+        "id": "b",
+        "label": "brillante"
+      },
+      {
+        "id": "c",
+        "label": "en"
+      }
     ],
     "correctAnswer": "b",
     "explanation": "\"Brillante\" dice cómo es la pluma.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-008",
-    "tags": ["gramatica", "adjetivos"]
+    "tags": [
+      "gramatica",
+      "adjetivos"
+    ]
   },
   {
     "id": "puente-009",
@@ -142,15 +238,27 @@
     "type": "multiple-choice",
     "prompt": "Según el texto, ¿qué palabra se parece a \"valiente\"?",
     "options": [
-      { "id": "a", "label": "atrevida" },
-      { "id": "b", "label": "dormida" },
-      { "id": "c", "label": "pequeña" }
+      {
+        "id": "a",
+        "label": "atrevida"
+      },
+      {
+        "id": "b",
+        "label": "dormida"
+      },
+      {
+        "id": "c",
+        "label": "pequeña"
+      }
     ],
     "correctAnswer": "a",
     "explanation": "El texto dice que el unicornio dio un salto atrevido.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-009",
-    "tags": ["vocabulario", "sinonimos"]
+    "tags": [
+      "vocabulario",
+      "sinonimos"
+    ]
   },
   {
     "id": "puente-010",
@@ -159,15 +267,27 @@
     "type": "multiple-choice",
     "prompt": "Completa la palabra del texto: Arcoiris vuelve a ___rillar.",
     "options": [
-      { "id": "a", "label": "brillar" },
-      { "id": "b", "label": "vrillar" },
-      { "id": "c", "label": "briyar" }
+      {
+        "id": "a",
+        "label": "brillar"
+      },
+      {
+        "id": "b",
+        "label": "vrillar"
+      },
+      {
+        "id": "c",
+        "label": "briyar"
+      }
     ],
     "correctAnswer": "a",
     "explanation": "\"Brillar\" se escribe con b y con ll.",
     "difficulty": 2,
     "textContentId": "historia-arcoiris-010",
-    "tags": ["ortografia", "b-v"]
+    "tags": [
+      "ortografia",
+      "b-v"
+    ]
   },
   {
     "id": "puente-011",
@@ -176,15 +296,27 @@
     "type": "multiple-choice",
     "prompt": "En \"Angela recupera el color\", ¿cuál es el sujeto?",
     "options": [
-      { "id": "a", "label": "Angela" },
-      { "id": "b", "label": "recupera" },
-      { "id": "c", "label": "el color" }
+      {
+        "id": "a",
+        "label": "Angela"
+      },
+      {
+        "id": "b",
+        "label": "recupera"
+      },
+      {
+        "id": "c",
+        "label": "el color"
+      }
     ],
     "correctAnswer": "a",
     "explanation": "El sujeto indica quién realiza la acción.",
     "difficulty": 2,
     "textContentId": "historia-arcoiris-011",
-    "tags": ["gramatica", "sujeto"]
+    "tags": [
+      "gramatica",
+      "sujeto"
+    ]
   },
   {
     "id": "puente-012",
@@ -193,14 +325,1423 @@
     "type": "multiple-choice",
     "prompt": "¿Qué consiguió Angela con cada respuesta cuidada?",
     "options": [
-      { "id": "a", "label": "Devolver un pedacito de magia a Arcoiris." },
-      { "id": "b", "label": "Esconder el libro mágico." },
-      { "id": "c", "label": "Apagar los colores de la crin." }
+      {
+        "id": "a",
+        "label": "Devolver un pedacito de magia a Arcoiris."
+      },
+      {
+        "id": "b",
+        "label": "Esconder el libro mágico."
+      },
+      {
+        "id": "c",
+        "label": "Apagar los colores de la crin."
+      }
     ],
     "correctAnswer": "a",
     "explanation": "El texto dice que cada respuesta cuidada devolvió magia al unicornio.",
     "difficulty": 2,
     "textContentId": "historia-arcoiris-012",
-    "tags": ["lectura", "inferencia"]
+    "tags": [
+      "lectura",
+      "inferencia"
+    ]
+  },
+  {
+    "id": "ortografia-001",
+    "worldId": "ortografia",
+    "skillId": "ortografia-agudas",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra aguda lleva tilde correctamente?",
+    "options": [
+      {
+        "id": "a",
+        "label": "café"
+      },
+      {
+        "id": "b",
+        "label": "lapiz"
+      },
+      {
+        "id": "c",
+        "label": "arbol"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Café es aguda y termina en vocal, por eso lleva tilde.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-001",
+    "tags": [
+      "ortografia",
+      "agudas",
+      "tildes"
+    ]
+  },
+  {
+    "id": "ortografia-002",
+    "worldId": "ortografia",
+    "skillId": "ortografia-llanas",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra llana está bien escrita?",
+    "options": [
+      {
+        "id": "a",
+        "label": "azúcar"
+      },
+      {
+        "id": "b",
+        "label": "azucar"
+      },
+      {
+        "id": "c",
+        "label": "azucár"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Azúcar es llana y termina en r, por eso lleva tilde.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-001",
+    "tags": [
+      "ortografia",
+      "llanas",
+      "tildes"
+    ]
+  },
+  {
+    "id": "ortografia-003",
+    "worldId": "ortografia",
+    "skillId": "ortografia-esdrujulas",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es una palabra esdrújula escrita correctamente?",
+    "options": [
+      {
+        "id": "a",
+        "label": "pajaro"
+      },
+      {
+        "id": "b",
+        "label": "pájaro"
+      },
+      {
+        "id": "c",
+        "label": "pajaró"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Pájaro es esdrújula; las esdrújulas siempre llevan tilde.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-001",
+    "tags": [
+      "ortografia",
+      "esdrujulas",
+      "tildes"
+    ]
+  },
+  {
+    "id": "ortografia-004",
+    "worldId": "ortografia",
+    "skillId": "ortografia-silabas",
+    "type": "multiple-choice",
+    "prompt": "¿Dónde está la sílaba tónica de \"camión\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ca"
+      },
+      {
+        "id": "b",
+        "label": "mión"
+      },
+      {
+        "id": "c",
+        "label": "las dos igual"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "En camión la fuerza cae en la última sílaba.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-001",
+    "tags": [
+      "ortografia",
+      "silabas",
+      "acentuacion"
+    ]
+  },
+  {
+    "id": "ortografia-005",
+    "worldId": "ortografia",
+    "skillId": "ortografia-bv",
+    "type": "multiple-choice",
+    "prompt": "Elige la palabra correcta.",
+    "options": [
+      {
+        "id": "a",
+        "label": "bentana"
+      },
+      {
+        "id": "b",
+        "label": "ventana"
+      },
+      {
+        "id": "c",
+        "label": "ventána"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Ventana se escribe con v y no lleva tilde.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "b-v"
+    ]
+  },
+  {
+    "id": "ortografia-006",
+    "worldId": "ortografia",
+    "skillId": "ortografia-bv",
+    "type": "multiple-choice",
+    "prompt": "Completa: Angela ___uscó una pista.",
+    "options": [
+      {
+        "id": "a",
+        "label": "buscó"
+      },
+      {
+        "id": "b",
+        "label": "vuscó"
+      },
+      {
+        "id": "c",
+        "label": "busco sin tilde"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Buscó se escribe con b y lleva tilde porque es aguda terminada en vocal.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "b-v",
+      "tildes"
+    ]
+  },
+  {
+    "id": "ortografia-007",
+    "worldId": "ortografia",
+    "skillId": "ortografia-h",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra necesita h inicial?",
+    "options": [
+      {
+        "id": "a",
+        "label": "huevo"
+      },
+      {
+        "id": "b",
+        "label": "uevo"
+      },
+      {
+        "id": "c",
+        "label": "güevo"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Huevo se escribe con h aunque no suene.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "h"
+    ]
+  },
+  {
+    "id": "ortografia-008",
+    "worldId": "ortografia",
+    "skillId": "ortografia-h",
+    "type": "multiple-choice",
+    "prompt": "¿Qué frase está escrita correctamente?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela a encontrado una pista."
+      },
+      {
+        "id": "b",
+        "label": "Angela ha encontrado una pista."
+      },
+      {
+        "id": "c",
+        "label": "Angela ah encontrado una pista."
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Ha encontrado usa ha del verbo haber.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "h",
+      "haber"
+    ]
+  },
+  {
+    "id": "ortografia-009",
+    "worldId": "ortografia",
+    "skillId": "ortografia-r-rr",
+    "type": "multiple-choice",
+    "prompt": "Elige la palabra correcta.",
+    "options": [
+      {
+        "id": "a",
+        "label": "carreta"
+      },
+      {
+        "id": "b",
+        "label": "careta con sonido fuerte"
+      },
+      {
+        "id": "c",
+        "label": "carreta sin doble r"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Entre vocales, el sonido fuerte se escribe rr: carreta.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "r-rr"
+    ]
+  },
+  {
+    "id": "ortografia-010",
+    "worldId": "ortografia",
+    "skillId": "ortografia-gj",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra está bien escrita?",
+    "options": [
+      {
+        "id": "a",
+        "label": "magia"
+      },
+      {
+        "id": "b",
+        "label": "majia"
+      },
+      {
+        "id": "c",
+        "label": "magía"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Magia se escribe con g y no lleva tilde.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "g-j"
+    ]
+  },
+  {
+    "id": "ortografia-011",
+    "worldId": "ortografia",
+    "skillId": "ortografia-cz",
+    "type": "multiple-choice",
+    "prompt": "Completa: La ___ebra corre.",
+    "options": [
+      {
+        "id": "a",
+        "label": "cebra"
+      },
+      {
+        "id": "b",
+        "label": "zebra"
+      },
+      {
+        "id": "c",
+        "label": "sebra"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Cebra se escribe con c en español.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "c-z"
+    ]
+  },
+  {
+    "id": "ortografia-012",
+    "worldId": "ortografia",
+    "skillId": "ortografia-puntuacion",
+    "type": "multiple-choice",
+    "prompt": "¿Qué frase usa bien los signos de pregunta?",
+    "options": [
+      {
+        "id": "a",
+        "label": "¿Dónde está Arcoiris?"
+      },
+      {
+        "id": "b",
+        "label": "Dónde está Arcoiris?"
+      },
+      {
+        "id": "c",
+        "label": "¿Dónde está Arcoiris"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "En español la pregunta lleva signo de apertura y de cierre.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "puntuacion"
+    ]
+  },
+  {
+    "id": "ortografia-013",
+    "worldId": "ortografia",
+    "skillId": "ortografia-mpmb",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra cumple la regla m antes de p o b?",
+    "options": [
+      {
+        "id": "a",
+        "label": "canpo"
+      },
+      {
+        "id": "b",
+        "label": "campo"
+      },
+      {
+        "id": "c",
+        "label": "camqo"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Antes de p se escribe m: campo.",
+    "difficulty": 1,
+    "tags": [
+      "ortografia",
+      "m-p",
+      "m-b"
+    ]
+  },
+  {
+    "id": "ortografia-014",
+    "worldId": "ortografia",
+    "skillId": "ortografia-ll-y",
+    "type": "multiple-choice",
+    "prompt": "Elige la palabra correcta.",
+    "options": [
+      {
+        "id": "a",
+        "label": "llave"
+      },
+      {
+        "id": "b",
+        "label": "yave"
+      },
+      {
+        "id": "c",
+        "label": "llabe"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Llave se escribe con ll y v.",
+    "difficulty": 1,
+    "tags": [
+      "ortografia",
+      "ll-y"
+    ]
+  },
+  {
+    "id": "ortografia-015",
+    "worldId": "ortografia",
+    "skillId": "ortografia-mayusculas",
+    "type": "multiple-choice",
+    "prompt": "¿Qué oración usa bien las mayúsculas?",
+    "options": [
+      {
+        "id": "a",
+        "label": "el lunes Angela lee."
+      },
+      {
+        "id": "b",
+        "label": "El lunes Angela lee."
+      },
+      {
+        "id": "c",
+        "label": "El Lunes Angela Lee."
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "La oración empieza con mayúscula y Angela también por ser nombre propio.",
+    "difficulty": 1,
+    "tags": [
+      "ortografia",
+      "mayusculas"
+    ]
+  },
+  {
+    "id": "ortografia-016",
+    "worldId": "ortografia",
+    "skillId": "ortografia-comas",
+    "type": "multiple-choice",
+    "prompt": "¿Dónde está mejor colocada la coma?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela, lee despacio y piensa."
+      },
+      {
+        "id": "b",
+        "label": "Angela lee, despacio y piensa."
+      },
+      {
+        "id": "c",
+        "label": "Angela lee despacio, y, piensa."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "La coma tras Angela funciona como llamada o vocativo.",
+    "difficulty": 3,
+    "tags": [
+      "ortografia",
+      "comas"
+    ]
+  },
+  {
+    "id": "gramatica-001",
+    "worldId": "gramatica",
+    "skillId": "gramatica-sustantivo",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es el sustantivo en \"la torre brillante\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "torre"
+      },
+      {
+        "id": "b",
+        "label": "brillante"
+      },
+      {
+        "id": "c",
+        "label": "la"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Torre nombra un lugar u objeto; es sustantivo.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "sustantivos"
+    ]
+  },
+  {
+    "id": "gramatica-002",
+    "worldId": "gramatica",
+    "skillId": "gramatica-adjetivo",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra es adjetivo en \"un unicornio alegre\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "unicornio"
+      },
+      {
+        "id": "b",
+        "label": "alegre"
+      },
+      {
+        "id": "c",
+        "label": "un"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Alegre dice cómo es el unicornio.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "adjetivos"
+    ]
+  },
+  {
+    "id": "gramatica-003",
+    "worldId": "gramatica",
+    "skillId": "gramatica-determinantes",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra es determinante en \"la pista secreta\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "la"
+      },
+      {
+        "id": "b",
+        "label": "pista"
+      },
+      {
+        "id": "c",
+        "label": "secreta"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "La acompaña al sustantivo pista; es determinante.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "determinantes"
+    ]
+  },
+  {
+    "id": "gramatica-004",
+    "worldId": "gramatica",
+    "skillId": "gramatica-articulos",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es un artículo?",
+    "options": [
+      {
+        "id": "a",
+        "label": "el"
+      },
+      {
+        "id": "b",
+        "label": "correr"
+      },
+      {
+        "id": "c",
+        "label": "azul"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El es un artículo determinado.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "articulos"
+    ]
+  },
+  {
+    "id": "gramatica-005",
+    "worldId": "gramatica",
+    "skillId": "gramatica-demostrativos",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra es demostrativo?",
+    "options": [
+      {
+        "id": "a",
+        "label": "esta"
+      },
+      {
+        "id": "b",
+        "label": "rápido"
+      },
+      {
+        "id": "c",
+        "label": "canta"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Esta señala cercanía: esta pista.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "demostrativos"
+    ]
+  },
+  {
+    "id": "gramatica-006",
+    "worldId": "gramatica",
+    "skillId": "gramatica-posesivos",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra indica posesión?",
+    "options": [
+      {
+        "id": "a",
+        "label": "mi"
+      },
+      {
+        "id": "b",
+        "label": "sobre"
+      },
+      {
+        "id": "c",
+        "label": "correr"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Mi indica que algo pertenece a quien habla: mi cuaderno.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "posesivos"
+    ]
+  },
+  {
+    "id": "gramatica-007",
+    "worldId": "gramatica",
+    "skillId": "gramatica-numerales",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra es numeral?",
+    "options": [
+      {
+        "id": "a",
+        "label": "tres"
+      },
+      {
+        "id": "b",
+        "label": "verde"
+      },
+      {
+        "id": "c",
+        "label": "leer"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Tres indica cantidad.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "numerales"
+    ]
+  },
+  {
+    "id": "gramatica-008",
+    "worldId": "gramatica",
+    "skillId": "gramatica-pronombres",
+    "type": "multiple-choice",
+    "prompt": "¿Qué palabra puede sustituir a Angela?",
+    "options": [
+      {
+        "id": "a",
+        "label": "ella"
+      },
+      {
+        "id": "b",
+        "label": "mesa"
+      },
+      {
+        "id": "c",
+        "label": "brillante"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Ella es un pronombre personal.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "pronombres"
+    ]
+  },
+  {
+    "id": "gramatica-009",
+    "worldId": "gramatica",
+    "skillId": "gramatica-verbo",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es el verbo en \"Angela escribe una pista\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela"
+      },
+      {
+        "id": "b",
+        "label": "escribe"
+      },
+      {
+        "id": "c",
+        "label": "pista"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Escribe expresa la acción.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "verbos"
+    ]
+  },
+  {
+    "id": "gramatica-010",
+    "worldId": "gramatica",
+    "skillId": "gramatica-infinitivo",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es el infinitivo de \"saltaba\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "saltar"
+      },
+      {
+        "id": "b",
+        "label": "saltó"
+      },
+      {
+        "id": "c",
+        "label": "saltando"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El infinitivo termina en -ar, -er o -ir: saltar.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "infinitivo"
+    ]
+  },
+  {
+    "id": "gramatica-011",
+    "worldId": "gramatica",
+    "skillId": "gramatica-tiempo-verbal",
+    "type": "multiple-choice",
+    "prompt": "¿Qué verbo está en pasado?",
+    "options": [
+      {
+        "id": "a",
+        "label": "camina"
+      },
+      {
+        "id": "b",
+        "label": "caminó"
+      },
+      {
+        "id": "c",
+        "label": "caminará"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Caminó indica una acción que ya ocurrió.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "tiempo-verbal"
+    ]
+  },
+  {
+    "id": "gramatica-012",
+    "worldId": "gramatica",
+    "skillId": "gramatica-persona-numero",
+    "type": "multiple-choice",
+    "prompt": "En \"nosotros leemos\", ¿qué persona y número aparecen?",
+    "options": [
+      {
+        "id": "a",
+        "label": "1ª persona plural"
+      },
+      {
+        "id": "b",
+        "label": "3ª persona singular"
+      },
+      {
+        "id": "c",
+        "label": "2ª persona plural"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Nosotros corresponde a primera persona del plural.",
+    "difficulty": 3,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "persona",
+      "numero"
+    ]
+  },
+  {
+    "id": "gramatica-013",
+    "worldId": "gramatica",
+    "skillId": "gramatica-sujeto",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es el sujeto en \"El unicornio corre por el valle\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "El unicornio"
+      },
+      {
+        "id": "b",
+        "label": "corre"
+      },
+      {
+        "id": "c",
+        "label": "por el valle"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El sujeto indica quién realiza la acción.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "sujeto"
+    ]
+  },
+  {
+    "id": "gramatica-014",
+    "worldId": "gramatica",
+    "skillId": "gramatica-predicado",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es el predicado en \"Angela encuentra una pista\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela"
+      },
+      {
+        "id": "b",
+        "label": "encuentra una pista"
+      },
+      {
+        "id": "c",
+        "label": "una pista"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "El predicado dice qué hace el sujeto.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "predicado"
+    ]
+  },
+  {
+    "id": "gramatica-015",
+    "worldId": "gramatica",
+    "skillId": "gramatica-concordancia",
+    "type": "multiple-choice",
+    "prompt": "¿Qué frase tiene concordancia correcta?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Las pistas brilla."
+      },
+      {
+        "id": "b",
+        "label": "La pista brillan."
+      },
+      {
+        "id": "c",
+        "label": "Las pistas brillan."
+      }
+    ],
+    "correctAnswer": "c",
+    "explanation": "Sujeto y verbo deben concordar en plural: las pistas brillan.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "concordancia"
+    ]
+  },
+  {
+    "id": "gramatica-016",
+    "worldId": "gramatica",
+    "skillId": "gramatica-tipos-oracion",
+    "type": "multiple-choice",
+    "prompt": "¿Qué oración es exclamativa?",
+    "options": [
+      {
+        "id": "a",
+        "label": "¿Dónde está la pista?"
+      },
+      {
+        "id": "b",
+        "label": "¡Qué pista tan brillante!"
+      },
+      {
+        "id": "c",
+        "label": "Angela lee la carta."
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Las exclamativas expresan emoción y llevan signos de exclamación.",
+    "difficulty": 1,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "tipos-oracion"
+    ]
+  },
+  {
+    "id": "comprension-001",
+    "worldId": "comprension",
+    "skillId": "comprension-idea-principal",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es la idea principal de \"Las luciérnagas del valle\"?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Leer bien es hacerse preguntas y buscar pistas."
+      },
+      {
+        "id": "b",
+        "label": "Las luciérnagas duermen por la mañana."
+      },
+      {
+        "id": "c",
+        "label": "Angela quiere correr por la hierba."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto explica cómo comprender mejor mientras se lee.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "idea-principal"
+    ]
+  },
+  {
+    "id": "comprension-002",
+    "worldId": "comprension",
+    "skillId": "comprension-detalle",
+    "type": "multiple-choice",
+    "prompt": "¿Qué formaban las luciérnagas sobre la hierba?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Caminos"
+      },
+      {
+        "id": "b",
+        "label": "Castillos"
+      },
+      {
+        "id": "c",
+        "label": "Libros"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto dice que formaban caminos sobre la hierba.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "detalle"
+    ]
+  },
+  {
+    "id": "comprension-003",
+    "worldId": "comprension",
+    "skillId": "comprension-inferencia",
+    "type": "multiple-choice",
+    "prompt": "Si unas pistas pedían imaginar lo que podía pasar después, ¿qué trabajaba Angela?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Inferencias"
+      },
+      {
+        "id": "b",
+        "label": "Mayúsculas"
+      },
+      {
+        "id": "c",
+        "label": "Sustantivos"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Imaginar a partir de pistas es hacer inferencias.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "inferencia"
+    ]
+  },
+  {
+    "id": "comprension-004",
+    "worldId": "comprension",
+    "skillId": "comprension-vocabulario-contexto",
+    "type": "multiple-choice",
+    "prompt": "En el texto, \"avanzaba\" significa...",
+    "options": [
+      {
+        "id": "a",
+        "label": "seguía adelante"
+      },
+      {
+        "id": "b",
+        "label": "se quedaba quieta"
+      },
+      {
+        "id": "c",
+        "label": "olvidaba todo"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Avanzar es seguir adelante.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "vocabulario"
+    ]
+  },
+  {
+    "id": "comprension-005",
+    "worldId": "comprension",
+    "skillId": "comprension-secuencia",
+    "type": "multiple-choice",
+    "prompt": "¿Qué hace primero Angela para leer mejor según el texto?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Se hace preguntas"
+      },
+      {
+        "id": "b",
+        "label": "Cierra el libro"
+      },
+      {
+        "id": "c",
+        "label": "Esconde las pistas"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto destaca hacerse preguntas mientras avanza.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "secuencia"
+    ]
+  },
+  {
+    "id": "comprension-006",
+    "worldId": "comprension",
+    "skillId": "comprension-causa-efecto",
+    "type": "multiple-choice",
+    "prompt": "¿Por qué no basta con leer deprisa?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Porque hay que buscar pistas y relacionar ideas."
+      },
+      {
+        "id": "b",
+        "label": "Porque las palabras desaparecen siempre."
+      },
+      {
+        "id": "c",
+        "label": "Porque leer deprisa está prohibido."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "La comprensión necesita atención, pistas e ideas conectadas.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "causa-efecto"
+    ]
+  },
+  {
+    "id": "comprension-007",
+    "worldId": "comprension",
+    "skillId": "comprension-resumen",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál sería el mejor resumen del texto?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela aprende estrategias para comprender mejor."
+      },
+      {
+        "id": "b",
+        "label": "Angela cuenta cuántas luciérnagas hay."
+      },
+      {
+        "id": "c",
+        "label": "Angela pierde el cuaderno en el valle."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Resume la enseñanza central del texto.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "resumen"
+    ]
+  },
+  {
+    "id": "comprension-008",
+    "worldId": "comprension",
+    "skillId": "comprension-opinion-evidencia",
+    "type": "multiple-choice",
+    "prompt": "¿Qué opinión está apoyada por el texto?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Leer con calma ayuda a entender mejor."
+      },
+      {
+        "id": "b",
+        "label": "Leer nunca sirve para encontrar pistas."
+      },
+      {
+        "id": "c",
+        "label": "Las luciérnagas escriben con lápiz."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto dice que leer bien no es correr, sino preguntarse cosas.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "opinion",
+      "evidencia"
+    ]
+  },
+  {
+    "id": "comprension-009",
+    "worldId": "comprension",
+    "skillId": "comprension-idea-principal",
+    "type": "multiple-choice",
+    "prompt": "¿Cuál es el tema del texto sobre el cuaderno mágico?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Cómo usar un cuaderno con orden"
+      },
+      {
+        "id": "b",
+        "label": "Cómo construir una torre"
+      },
+      {
+        "id": "c",
+        "label": "Cómo alimentar a un unicornio"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto da pasos para cuidar y ordenar el cuaderno.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "idea-principal"
+    ]
+  },
+  {
+    "id": "comprension-010",
+    "worldId": "comprension",
+    "skillId": "comprension-detalle",
+    "type": "multiple-choice",
+    "prompt": "¿Qué se escribe primero en el cuaderno?",
+    "options": [
+      {
+        "id": "a",
+        "label": "La fecha"
+      },
+      {
+        "id": "b",
+        "label": "El final del cuento"
+      },
+      {
+        "id": "c",
+        "label": "Una contraseña"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto dice que primero se escribe la fecha.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "detalle"
+    ]
+  },
+  {
+    "id": "comprension-011",
+    "worldId": "comprension",
+    "skillId": "comprension-secuencia",
+    "type": "multiple-choice",
+    "prompt": "Después de la fecha, ¿qué conviene poner?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Un título claro"
+      },
+      {
+        "id": "b",
+        "label": "Una mancha de tinta"
+      },
+      {
+        "id": "c",
+        "label": "Una pegatina sin nombre"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto indica fecha primero y después título claro.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "secuencia"
+    ]
+  },
+  {
+    "id": "comprension-012",
+    "worldId": "comprension",
+    "skillId": "comprension-vocabulario-contexto",
+    "type": "multiple-choice",
+    "prompt": "¿Qué significa \"contexto\" en el texto?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Las palabras que rodean a otra y ayudan a entenderla"
+      },
+      {
+        "id": "b",
+        "label": "Una goma de borrar mágica"
+      },
+      {
+        "id": "c",
+        "label": "Un tipo de signo de puntuación"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El contexto ayuda a deducir el significado de una palabra nueva.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "vocabulario"
+    ]
+  },
+  {
+    "id": "comprension-013",
+    "worldId": "comprension",
+    "skillId": "comprension-inferencia",
+    "type": "multiple-choice",
+    "prompt": "¿Por qué conviene rodear una palabra nueva?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Para recordarla y buscar su significado"
+      },
+      {
+        "id": "b",
+        "label": "Para decorar la página solamente"
+      },
+      {
+        "id": "c",
+        "label": "Para no leerla nunca"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rodearla ayuda a fijarse en ella y entenderla.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "inferencia"
+    ]
+  },
+  {
+    "id": "comprension-014",
+    "worldId": "comprension",
+    "skillId": "comprension-causa-efecto",
+    "type": "multiple-choice",
+    "prompt": "Si Angela escribe frases completas, ¿qué consigue?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Respuestas más claras"
+      },
+      {
+        "id": "b",
+        "label": "Que desaparezca la fecha"
+      },
+      {
+        "id": "c",
+        "label": "Que el cuaderno se cierre solo"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Las frases completas hacen que la respuesta se entienda mejor.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "causa-efecto"
+    ]
+  },
+  {
+    "id": "comprension-015",
+    "worldId": "comprension",
+    "skillId": "comprension-resumen",
+    "type": "multiple-choice",
+    "prompt": "¿Qué resumen encaja mejor?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Ordenar el cuaderno ayuda a estudiar y entender."
+      },
+      {
+        "id": "b",
+        "label": "Los cuadernos mágicos no necesitan títulos."
+      },
+      {
+        "id": "c",
+        "label": "La letra tranquila impide leer."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto une orden, títulos, frases completas y vocabulario.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "resumen"
+    ]
+  },
+  {
+    "id": "comprension-016",
+    "worldId": "comprension",
+    "skillId": "comprension-opinion-evidencia",
+    "type": "multiple-choice",
+    "prompt": "¿Qué consejo sale del texto?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Intentar entender palabras nuevas por el contexto."
+      },
+      {
+        "id": "b",
+        "label": "Preguntar sin leer la frase."
+      },
+      {
+        "id": "c",
+        "label": "No poner título nunca."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El texto recomienda buscar significado por el contexto antes de preguntar.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "estrategias"
+    ]
   }
 ]

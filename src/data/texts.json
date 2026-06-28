@@ -6,7 +6,9 @@
     "body": "Angela encontró una carta cubierta de purpurina dentro de su mochila. Al abrirla, una nube de colores dibujó un portal hacia el Reino Arcoiris de las Palabras. La carta decía: \"Arcoiris, el unicornio guardián, ha desaparecido. Para encontrarlo, cruza los cuatro mundos y recupera las pistas que esconden las palabras\".",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-001"]
+    "questionIds": [
+      "puente-001"
+    ]
   },
   {
     "id": "historia-arcoiris-002",
@@ -15,7 +17,9 @@
     "body": "El portal dejó a Angela ante la Puerta del Repaso de 3º. La entrada estaba cerrada con candados de colores y cada candado recordaba algo aprendido: leer con atención, entender detalles, reconocer palabras importantes y pensar antes de responder. Si superaba la puerta, recibiría la primera pista de Arcoiris.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-002"]
+    "questionIds": [
+      "puente-002"
+    ]
   },
   {
     "id": "historia-arcoiris-003",
@@ -24,7 +28,9 @@
     "body": "Al resolver los retos del repaso, la puerta se abrió con un sonido de campanillas. En el suelo apareció una huella plateada con forma de herradura. Angela comprendió que Arcoiris no estaba perdido por casualidad: alguien había apagado sus colores y lo había guiado hacia la Torre de la Ortografía.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-003"]
+    "questionIds": [
+      "puente-003"
+    ]
   },
   {
     "id": "historia-arcoiris-004",
@@ -33,7 +39,9 @@
     "body": "Angela subió a la Torre de la Ortografía, donde las palabras flotaban sin tildes y algunas letras se habían escapado de su sitio. En una nube pequeña brillaba la palabra \"mágico\". La torre solo entregaría la siguiente pista si Angela cuidaba cada tilde como si fuera una chispa de la crin de Arcoiris.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-004"]
+    "questionIds": [
+      "puente-004"
+    ]
   },
   {
     "id": "historia-arcoiris-005",
@@ -42,7 +50,9 @@
     "body": "En una sala redonda apareció una cesta encantada con un libro, una pluma, una campana y una nube dormida. Cada objeto tenía un nombre y cada nombre encendía una luz diferente. Angela recordó que, para seguir buscando al unicornio, primero debía reconocer bien las palabras que nombran personas, animales, lugares y cosas.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-005"]
+    "questionIds": [
+      "puente-005"
+    ]
   },
   {
     "id": "historia-arcoiris-006",
@@ -51,7 +61,9 @@
     "body": "La torre mostró una frase escrita con polvo azul: \"Arcoiris salta sobre una nube\". Aunque Angela aún no veía al unicornio, la frase se movía como si él hubiera pasado por allí hacía muy poco. Para abrir la ventana secreta de la torre, tenía que encontrar la palabra que indicaba la acción.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-006"]
+    "questionIds": [
+      "puente-006"
+    ]
   },
   {
     "id": "historia-arcoiris-007",
@@ -60,7 +72,9 @@
     "body": "La ventana secreta llevó a Angela hasta el Castillo de la Gramática. En la puerta apareció escrito \"angela cuida a Arcoiris\", pero la frase sonaba desafinada. Las murallas del castillo solo dejaban pasar a quien ordenaba bien las palabras y trataba los nombres propios con el respeto de una letra mayúscula.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-007"]
+    "questionIds": [
+      "puente-007"
+    ]
   },
   {
     "id": "historia-arcoiris-008",
@@ -69,7 +83,9 @@
     "body": "Dentro del castillo, Angela encontró una pluma brillante atrapada en una vidriera. Al tocarla, la pluma escribió una pista: \"Busca en el valle donde los cuentos guardan secretos\". La palabra brillante no nombraba la pluma, sino que decía cómo era. Esa pista gramatical iluminó otro trozo del camino.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-008"]
+    "questionIds": [
+      "puente-008"
+    ]
   },
   {
     "id": "historia-arcoiris-009",
@@ -78,7 +94,9 @@
     "body": "Para salir del castillo, Angela tuvo que cruzar el Puente de Algodón. El viento soplaba fuerte y las nubes se movían bajo sus pies, pero ella pensó en Arcoiris esperando ayuda. Ser valiente no significaba no tener miedo, sino avanzar aunque el corazón hiciera cosquillas.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-009"]
+    "questionIds": [
+      "puente-009"
+    ]
   },
   {
     "id": "historia-arcoiris-010",
@@ -87,7 +105,9 @@
     "body": "Al otro lado del puente se abrió el Valle de la Comprensión Lectora. Allí no bastaba con leer deprisa: había que buscar pistas, relacionar ideas y descubrir lo que el texto no decía directamente. En una piedra apareció una palabra incompleta: \"Arcoiris vuelve a ___rillar\".",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-010"]
+    "questionIds": [
+      "puente-010"
+    ]
   },
   {
     "id": "historia-arcoiris-011",
@@ -96,7 +116,9 @@
     "body": "En el centro del valle, unas luciérnagas formaron la oración: \"Angela recupera el color\". Entonces Angela entendió la pista: ella no era una visitante cualquiera, era la protagonista de la búsqueda. Si descubría quién realizaba la acción, el valle le mostraría dónde estaba escondido el unicornio.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-011"]
+    "questionIds": [
+      "puente-011"
+    ]
   },
   {
     "id": "historia-arcoiris-012",
@@ -105,6 +127,112 @@
     "body": "Las pistas de los cuatro mundos se unieron y señalaron una cueva de nubes suaves. Allí estaba Arcoiris, el unicornio arcoiris, con la crin apagada pero los ojos llenos de esperanza. Cada respuesta cuidada de Angela devolvió un color a su crin, hasta que el reino volvió a brillar.",
     "sourceNote": "Texto original del Reino Arcoiris de las Palabras.",
     "estimatedReadingLevel": "4 primaria",
-    "questionIds": ["puente-012"]
+    "questionIds": [
+      "puente-012"
+    ]
+  },
+  {
+    "id": "texto-ortografia-torre-001",
+    "type": "cuento",
+    "title": "La escalera de las tildes",
+    "body": "Angela entró en la Torre de la Ortografía y encontró una escalera con tres peldaños: agudas, llanas y esdrújulas. Cada palabra que subía sin su tilde hacía sonar una campana desafinada. Para avanzar, Angela debía leer despacio, separar sílabas y escuchar dónde caía la fuerza de la voz.",
+    "sourceNote": "Texto original para practicar acentuación y normas ortográficas.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": [
+      "ortografia-001",
+      "ortografia-002",
+      "ortografia-003",
+      "ortografia-004"
+    ]
+  },
+  {
+    "id": "texto-ortografia-torre-002",
+    "type": "cuento",
+    "title": "El taller de las letras traviesas",
+    "body": "En el taller de la torre, la b y la v jugaban al escondite entre burbujas. La h aparecía en silencio, la r rodaba como una rueda y la rr rugía en mitad de las palabras. Angela descubrió que cada letra tenía una pista y que escribir bien era cuidar los detalles.",
+    "sourceNote": "Texto original para practicar b/v, h, r/rr y signos.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": [
+      "ortografia-005",
+      "ortografia-006",
+      "ortografia-007",
+      "ortografia-008",
+      "ortografia-009",
+      "ortografia-010",
+      "ortografia-011",
+      "ortografia-012"
+    ]
+  },
+  {
+    "id": "texto-gramatica-castillo-001",
+    "type": "cuento",
+    "title": "El salón de las palabras",
+    "body": "El Castillo de la Gramática tenía un salón enorme. Los sustantivos llevaban etiquetas con nombres, los adjetivos pintaban cualidades, los determinantes abrían puertas y los verbos ponían todo en movimiento. Angela entendió que una frase clara funcionaba como un equipo bien ordenado.",
+    "sourceNote": "Texto original para reconocer clases de palabras.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": [
+      "gramatica-001",
+      "gramatica-002",
+      "gramatica-003",
+      "gramatica-004",
+      "gramatica-005",
+      "gramatica-006",
+      "gramatica-007",
+      "gramatica-008"
+    ]
+  },
+  {
+    "id": "texto-gramatica-castillo-002",
+    "type": "cuento",
+    "title": "La oración del puente levadizo",
+    "body": "Para bajar el puente levadizo, Angela debía encontrar quién hacía la acción y qué se decía de esa persona. El sujeto levantaba la mano, el predicado explicaba lo que ocurría y el verbo marcaba el corazón de la oración. Si todo concordaba, el puente bajaba sin crujir.",
+    "sourceNote": "Texto original para sujeto, predicado, concordancia y verbos.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": [
+      "gramatica-009",
+      "gramatica-010",
+      "gramatica-011",
+      "gramatica-012",
+      "gramatica-013",
+      "gramatica-014",
+      "gramatica-015",
+      "gramatica-016"
+    ]
+  },
+  {
+    "id": "texto-comprension-valle-001",
+    "type": "cuento",
+    "title": "Las luciérnagas del valle",
+    "body": "Al llegar al Valle de la Comprensión, Angela vio luciérnagas formando caminos sobre la hierba. Unas señalaban datos exactos, otras escondían pistas y algunas pedían imaginar lo que podía pasar después. Angela aprendió que leer bien no era correr, sino hacerse preguntas mientras avanzaba.",
+    "sourceNote": "Texto original para idea principal, detalles e inferencias.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": [
+      "comprension-001",
+      "comprension-002",
+      "comprension-003",
+      "comprension-004",
+      "comprension-005",
+      "comprension-006",
+      "comprension-007",
+      "comprension-008"
+    ]
+  },
+  {
+    "id": "texto-comprension-valle-002",
+    "type": "informativo",
+    "title": "Cómo cuidar un cuaderno mágico",
+    "body": "Un cuaderno mágico guarda mejor las ideas cuando se usa con orden. Primero se escribe la fecha. Después se pone un título claro. Las respuestas deben tener frases completas y letra tranquila. Si aparece una palabra nueva, conviene rodearla y buscar su significado por el contexto antes de preguntar.",
+    "sourceNote": "Texto original informativo para comprensión práctica.",
+    "estimatedReadingLevel": "4 primaria",
+    "questionIds": [
+      "comprension-009",
+      "comprension-010",
+      "comprension-011",
+      "comprension-012",
+      "comprension-013",
+      "comprension-014",
+      "comprension-015",
+      "comprension-016"
+    ]
   }
 ]
