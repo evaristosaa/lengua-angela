@@ -1,16 +1,16 @@
 [
   {
     "id": "puente-3-4",
-    "title": "Puerta del Repaso de 3º",
-    "theme": "La entrada al Reino Arcoiris de las Palabras",
-    "description": "Retos cortos para recordar lo aprendido en 3º y entrar con fuerza en 4º.",
+    "title": "Portal de los Colores",
+    "theme": "La entrada secreta al Reino Arcoiris de las Palabras",
+    "description": "Primeros retos para encender el portal, encontrar la pista inicial de Arcoiris y entrar en el Reino.",
     "priority": 1,
     "unlockRule": "available-start",
     "rewardPart": "primer color arcoiris",
     "missionIds": [
       "mision-diaria-puente"
     ],
-    "recommendedGradeFocus": "Repaso general de comprensión, vocabulario, gramática y ortografía"
+    "recommendedGradeFocus": "Inicio de aventura con comprensión, vocabulario, gramática y ortografía"
   },
   {
     "id": "ortografia",

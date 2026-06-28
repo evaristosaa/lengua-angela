@@ -122,12 +122,16 @@ export default function App() {
         )}
         {route.name === "mission" && (
           <MissionPage
+            key={route.missionId}
             mission={missions.find((mission) => mission.id === route.missionId)}
+            missions={missions}
+            worlds={worlds}
             activities={activities}
             texts={texts}
             progress={progress}
             onProgressChange={updateProgress}
             onBackToMap={() => navigate({ name: "map" })}
+            onOpenMission={(missionId) => navigate({ name: "mission", missionId })}
           />
         )}
         {route.name === "parents" && (

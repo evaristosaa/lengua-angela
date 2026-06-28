@@ -26,7 +26,9 @@
     "tags": [
       "lectura",
       "idea-principal"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 1",
+    "storyBody": "Angela recibe una carta brillante y descubre que Arcoiris ha dejado una pista escondida en el portal."
   },
   {
     "id": "puente-002",
@@ -41,7 +43,7 @@
       },
       {
         "id": "b",
-        "label": "En la Puerta del Repaso de 3º."
+        "label": "En la Portal de los Colores."
       },
       {
         "id": "c",
@@ -49,20 +51,22 @@
       }
     ],
     "correctAnswer": "b",
-    "explanation": "El texto cuenta que el portal deja a Angela ante la Puerta del Repaso de 3º.",
+    "explanation": "El texto cuenta que el portal deja a Angela ante la Portal de los Colores.",
     "difficulty": 1,
     "textContentId": "historia-arcoiris-002",
     "tags": [
       "lectura",
       "detalle"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 2",
+    "storyBody": "La puerta muestra tres caminos de luz y Angela debe fijarse en los detalles para elegir bien."
   },
   {
     "id": "puente-003",
     "worldId": "puente-3-4",
     "skillId": "vocabulario-contexto",
     "type": "multiple-choice",
-    "prompt": "¿Qué pista encuentra Angela al abrir la Puerta del Repaso?",
+    "prompt": "¿Qué pista encuentra Angela al abrir la Portal de los Colores?",
     "options": [
       {
         "id": "a",
@@ -84,7 +88,9 @@
     "tags": [
       "lectura",
       "vocabulario"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 3",
+    "storyBody": "Una huella plateada aparece junto a una nube de colores, señalando que Arcoiris pasó por allí."
   },
   {
     "id": "puente-004",
@@ -113,7 +119,9 @@
     "tags": [
       "ortografia",
       "tildes"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 4",
+    "storyBody": "El portal tiembla cuando una palabra pierde su tilde; Angela escucha dónde cae la voz."
   },
   {
     "id": "puente-005",
@@ -142,7 +150,9 @@
     "tags": [
       "gramatica",
       "sustantivos"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 5",
+    "storyBody": "Un rótulo mágico mezcla nombres y acciones, y Angela separa cada palabra para que la frase respire."
   },
   {
     "id": "puente-006",
@@ -171,7 +181,9 @@
     "tags": [
       "gramatica",
       "verbos"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 6",
+    "storyBody": "La cerradura pregunta por una palabra precisa antes de dejar pasar el primer rayo arcoiris."
   },
   {
     "id": "puente-007",
@@ -200,7 +212,9 @@
     "tags": [
       "ortografia",
       "mayusculas"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 7",
+    "storyBody": "Angela encuentra una oración desordenada y la recoloca como si pusiera piedras en un sendero."
   },
   {
     "id": "puente-008",
@@ -229,7 +243,9 @@
     "tags": [
       "gramatica",
       "adjetivos"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 8",
+    "storyBody": "Una campanilla cambia de sonido cuando una palabra no encaja con la frase del portal."
   },
   {
     "id": "puente-009",
@@ -258,7 +274,9 @@
     "tags": [
       "vocabulario",
       "sinonimos"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 9",
+    "storyBody": "El mapa se ilumina un poco más cada vez que Angela comprende una pista nueva."
   },
   {
     "id": "puente-010",
@@ -287,7 +305,9 @@
     "tags": [
       "ortografia",
       "b-v"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 10",
+    "storyBody": "Una nube le pide distinguir lo que se ve en el texto de lo que solo se imagina."
   },
   {
     "id": "puente-011",
@@ -316,7 +336,9 @@
     "tags": [
       "gramatica",
       "sujeto"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 11",
+    "storyBody": "El primer color parpadea dentro de un cristal y espera una respuesta cuidadosa."
   },
   {
     "id": "puente-012",
@@ -345,7 +367,9 @@
     "tags": [
       "lectura",
       "inferencia"
-    ]
+    ],
+    "storyTitle": "Portal de los Colores · pista 12",
+    "storyBody": "Angela junta las pistas del portal y nota que el Reino empieza a abrirse ante ella."
   },
   {
     "id": "ortografia-001",
@@ -375,7 +399,9 @@
       "ortografia",
       "agudas",
       "tildes"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 1",
+    "storyBody": "Angela entra en la torre y las palabras agudas saltan de escalón en escalón buscando su tilde."
   },
   {
     "id": "ortografia-002",
@@ -405,7 +431,9 @@
       "ortografia",
       "llanas",
       "tildes"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 2",
+    "storyBody": "En el segundo peldaño, las palabras llanas piden calma para no perder el acento correcto."
   },
   {
     "id": "ortografia-003",
@@ -435,7 +463,9 @@
       "ortografia",
       "esdrujulas",
       "tildes"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 3",
+    "storyBody": "Una bandada de esdrújulas cruza el techo: todas necesitan su tilde para no caer."
   },
   {
     "id": "ortografia-004",
@@ -465,7 +495,9 @@
       "ortografia",
       "silabas",
       "acentuacion"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 4",
+    "storyBody": "La torre abre una ventana donde cada sílaba suena como una campana distinta."
   },
   {
     "id": "ortografia-005",
@@ -494,7 +526,9 @@
     "tags": [
       "ortografia",
       "b-v"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 5",
+    "storyBody": "Un cartel antiguo mezcla b y v, y Angela debe reparar la letra que cambia el sentido."
   },
   {
     "id": "ortografia-006",
@@ -524,7 +558,9 @@
       "ortografia",
       "b-v",
       "tildes"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 6",
+    "storyBody": "Una puerta muda guarda palabras con h; solo se abre si Angela recuerda cuándo aparece."
   },
   {
     "id": "ortografia-007",
@@ -553,7 +589,9 @@
     "tags": [
       "ortografia",
       "h"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 7",
+    "storyBody": "Las mayúsculas vigilan los nombres propios del Reino para que nadie los escriba dormidos."
   },
   {
     "id": "ortografia-008",
@@ -583,7 +621,9 @@
       "ortografia",
       "h",
       "haber"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 8",
+    "storyBody": "Los signos de interrogación se han escondido en una pregunta que no sabe cómo sonar."
   },
   {
     "id": "ortografia-009",
@@ -612,7 +652,9 @@
     "tags": [
       "ortografia",
       "r-rr"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 9",
+    "storyBody": "Una coma traviesa cambia las pausas de la frase y Angela la coloca donde respira mejor."
   },
   {
     "id": "ortografia-010",
@@ -641,7 +683,9 @@
     "tags": [
       "ortografia",
       "g-j"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 10",
+    "storyBody": "El guardián de la torre ofrece tres palabras parecidas y solo una está escrita con cuidado."
   },
   {
     "id": "ortografia-011",
@@ -670,7 +714,9 @@
     "tags": [
       "ortografia",
       "c-z"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 11",
+    "storyBody": "El viento revuelve letras difíciles y Angela escucha cuál mantiene limpia la palabra."
   },
   {
     "id": "ortografia-012",
@@ -699,7 +745,9 @@
     "tags": [
       "ortografia",
       "puntuacion"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 12",
+    "storyBody": "Un mensaje de Arcoiris aparece sin puntos; Angela busca dónde termina cada idea."
   },
   {
     "id": "ortografia-013",
@@ -728,7 +776,9 @@
       "ortografia",
       "m-p",
       "m-b"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 13",
+    "storyBody": "La escalera se divide en agudas, llanas y esdrújulas, y Angela clasifica la palabra perdida."
   },
   {
     "id": "ortografia-014",
@@ -756,7 +806,9 @@
     "tags": [
       "ortografia",
       "ll-y"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 14",
+    "storyBody": "Una frase del muro necesita una tilde para que el eco suene afinado."
   },
   {
     "id": "ortografia-015",
@@ -784,7 +836,9 @@
     "tags": [
       "ortografia",
       "mayusculas"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 15",
+    "storyBody": "La campana de la torre avisa de una palabra escrita deprisa y con una letra equivocada."
   },
   {
     "id": "ortografia-016",
@@ -812,7 +866,9 @@
     "tags": [
       "ortografia",
       "comas"
-    ]
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 16",
+    "storyBody": "Angela encuentra una llamada entre comas y entiende a quién se dirige la frase."
   },
   {
     "id": "gramatica-001",
@@ -841,7 +897,9 @@
     "tags": [
       "gramatica",
       "sustantivos"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 1",
+    "storyBody": "Angela cruza el puente del castillo y cada sustantivo toma forma de objeto o lugar."
   },
   {
     "id": "gramatica-002",
@@ -870,7 +928,9 @@
     "tags": [
       "gramatica",
       "adjetivos"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 2",
+    "storyBody": "Un unicornio alegre aparece en un tapiz y Angela descubre qué palabra cuenta cómo es."
   },
   {
     "id": "gramatica-003",
@@ -899,7 +959,9 @@
     "tags": [
       "gramatica",
       "determinantes"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 3",
+    "storyBody": "Los determinantes hacen guardia delante de los nombres para avisar de quién se habla."
   },
   {
     "id": "gramatica-004",
@@ -928,7 +990,9 @@
     "tags": [
       "gramatica",
       "articulos"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 4",
+    "storyBody": "Un verbo abre una puerta porque muestra la acción que mueve la frase."
   },
   {
     "id": "gramatica-005",
@@ -957,7 +1021,9 @@
     "tags": [
       "gramatica",
       "demostrativos"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 5",
+    "storyBody": "La sala del sujeto pregunta quién realiza la acción antes de levantar el rastrillo."
   },
   {
     "id": "gramatica-006",
@@ -986,7 +1052,9 @@
     "tags": [
       "gramatica",
       "posesivos"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 6",
+    "storyBody": "El predicado completa lo que ocurre y enciende las antorchas del pasillo."
   },
   {
     "id": "gramatica-007",
@@ -1015,7 +1083,9 @@
     "tags": [
       "gramatica",
       "numerales"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 7",
+    "storyBody": "Una frase desordenada rueda por las escaleras y Angela la monta de nuevo."
   },
   {
     "id": "gramatica-008",
@@ -1044,7 +1114,9 @@
     "tags": [
       "gramatica",
       "pronombres"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 8",
+    "storyBody": "El castillo cambia de singular a plural y exige que las palabras concuerden."
   },
   {
     "id": "gramatica-009",
@@ -1073,7 +1145,9 @@
     "tags": [
       "gramatica",
       "verbos"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 9",
+    "storyBody": "Un adverbio rápido cruza el patio diciendo cómo sucede la acción."
   },
   {
     "id": "gramatica-010",
@@ -1102,7 +1176,9 @@
     "tags": [
       "gramatica",
       "infinitivo"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 10",
+    "storyBody": "Las oraciones enunciativas informan al guardián sin preguntar ni exclamar."
   },
   {
     "id": "gramatica-011",
@@ -1131,7 +1207,9 @@
     "tags": [
       "gramatica",
       "tiempo-verbal"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 11",
+    "storyBody": "Una pregunta aparece en la torre norte y Angela reconoce su tono interrogativo."
   },
   {
     "id": "gramatica-012",
@@ -1161,7 +1239,9 @@
       "gramatica",
       "persona",
       "numero"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 12",
+    "storyBody": "Un grito de sorpresa despierta una oración exclamativa llena de emoción."
   },
   {
     "id": "gramatica-013",
@@ -1190,7 +1270,9 @@
     "tags": [
       "gramatica",
       "sujeto"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 13",
+    "storyBody": "La llave de los pronombres sustituye un nombre para que la frase no se repita."
   },
   {
     "id": "gramatica-014",
@@ -1219,7 +1301,9 @@
     "tags": [
       "gramatica",
       "predicado"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 14",
+    "storyBody": "Un grupo nominal protege un sustantivo con palabras que lo acompañan."
   },
   {
     "id": "gramatica-015",
@@ -1248,7 +1332,9 @@
     "tags": [
       "gramatica",
       "concordancia"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 15",
+    "storyBody": "Las pistas del castillo brillan cuando sujeto y verbo caminan en el mismo número."
   },
   {
     "id": "gramatica-016",
@@ -1277,7 +1363,9 @@
     "tags": [
       "gramatica",
       "tipos-oracion"
-    ]
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 16",
+    "storyBody": "Angela escucha tres frases y reconoce cuál expresa sorpresa verdadera."
   },
   {
     "id": "comprension-001",
@@ -1306,7 +1394,9 @@
     "tags": [
       "lectura",
       "idea-principal"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 1",
+    "storyBody": "Angela llega al valle y las luciérnagas dibujan la idea principal entre la hierba."
   },
   {
     "id": "comprension-002",
@@ -1335,7 +1425,9 @@
     "tags": [
       "lectura",
       "detalle"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 2",
+    "storyBody": "Un camino de luz señala un detalle concreto que no debe confundirse con adornos."
   },
   {
     "id": "comprension-003",
@@ -1364,7 +1456,9 @@
     "tags": [
       "lectura",
       "inferencia"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 3",
+    "storyBody": "Las pistas invitan a imaginar lo que puede pasar después sin inventar sin sentido."
   },
   {
     "id": "comprension-004",
@@ -1393,7 +1487,9 @@
     "tags": [
       "lectura",
       "vocabulario"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 4",
+    "storyBody": "Una palabra nueva aparece entre flores y Angela busca su significado por el contexto."
   },
   {
     "id": "comprension-005",
@@ -1422,7 +1518,9 @@
     "tags": [
       "lectura",
       "secuencia"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 5",
+    "storyBody": "El río del valle lleva datos importantes que Angela debe recordar al responder."
   },
   {
     "id": "comprension-006",
@@ -1451,7 +1549,9 @@
     "tags": [
       "lectura",
       "causa-efecto"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 6",
+    "storyBody": "Una sombra cambia de forma y Angela distingue causa y consecuencia."
   },
   {
     "id": "comprension-007",
@@ -1480,7 +1580,9 @@
     "tags": [
       "lectura",
       "resumen"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 7",
+    "storyBody": "El sendero se divide en principio, medio y final para ordenar la historia."
   },
   {
     "id": "comprension-008",
@@ -1510,7 +1612,9 @@
       "lectura",
       "opinion",
       "evidencia"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 8",
+    "storyBody": "Una fábula pequeña deja una enseñanza escondida bajo una piedra brillante."
   },
   {
     "id": "comprension-009",
@@ -1539,7 +1643,9 @@
     "tags": [
       "lectura",
       "idea-principal"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 9",
+    "storyBody": "Angela compara dos pistas para descubrir en qué se parecen y en qué se diferencian."
   },
   {
     "id": "comprension-010",
@@ -1568,7 +1674,9 @@
     "tags": [
       "lectura",
       "detalle"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 10",
+    "storyBody": "El valle pregunta qué detalle no pertenece al texto para evitar trampas."
   },
   {
     "id": "comprension-011",
@@ -1597,7 +1705,9 @@
     "tags": [
       "lectura",
       "secuencia"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 11",
+    "storyBody": "Una voz suave pide resumir sin copiar todo el cuento palabra por palabra."
   },
   {
     "id": "comprension-012",
@@ -1626,7 +1736,9 @@
     "tags": [
       "lectura",
       "vocabulario"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 12",
+    "storyBody": "El mapa del valle marca una conclusión que nace de varias pistas juntas."
   },
   {
     "id": "comprension-013",
@@ -1655,7 +1767,9 @@
     "tags": [
       "lectura",
       "inferencia"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 13",
+    "storyBody": "Angela reconoce quién habla en un diálogo escrito entre comillas."
   },
   {
     "id": "comprension-014",
@@ -1684,7 +1798,9 @@
     "tags": [
       "lectura",
       "causa-efecto"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 14",
+    "storyBody": "Las luciérnagas esconden una palabra clave que ayuda a entender el párrafo."
   },
   {
     "id": "comprension-015",
@@ -1713,7 +1829,9 @@
     "tags": [
       "lectura",
       "resumen"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 15",
+    "storyBody": "Una frase repetida revela lo que el personaje siente aunque no lo diga directamente."
   },
   {
     "id": "comprension-016",
@@ -1742,6 +1860,610 @@
     "tags": [
       "lectura",
       "estrategias"
-    ]
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 16",
+    "storyBody": "El puente final pide elegir el título que mejor recoge la historia."
+  },
+  {
+    "id": "puente-013",
+    "worldId": "puente-3-4",
+    "skillId": "ortografia-b-v",
+    "type": "fill-gap",
+    "prompt": "Completa la palabra: Angela cruza el portal con una _arita brillante.",
+    "options": [
+      {
+        "id": "a",
+        "label": "v"
+      },
+      {
+        "id": "b",
+        "label": "b"
+      },
+      {
+        "id": "c",
+        "label": "h"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Varita se escribe con v.",
+    "difficulty": 1,
+    "tags": [
+      "ortografia",
+      "b-v"
+    ],
+    "storyTitle": "Portal de los Colores · pista 13",
+    "storyBody": "Una varita incompleta aparece en el suelo; Angela debe escoger la letra que devuelve su brillo."
+  },
+  {
+    "id": "puente-014",
+    "worldId": "puente-3-4",
+    "skillId": "gramatica-orden-oracion",
+    "type": "order",
+    "prompt": "Ordena la oración para que tenga sentido.",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela"
+      },
+      {
+        "id": "b",
+        "label": "lee"
+      },
+      {
+        "id": "c",
+        "label": "la pista"
+      }
+    ],
+    "correctAnswer": [
+      "a",
+      "b",
+      "c"
+    ],
+    "explanation": "La oración ordenada es: Angela lee la pista.",
+    "difficulty": 1,
+    "tags": [
+      "gramatica",
+      "oraciones"
+    ],
+    "storyTitle": "Portal de los Colores · pista 14",
+    "storyBody": "Tres palabras flotan sin orden y Angela las coloca para formar una frase clara."
+  },
+  {
+    "id": "puente-015",
+    "worldId": "puente-3-4",
+    "skillId": "vocabulario-sinonimos",
+    "type": "classify",
+    "prompt": "Elige el sinónimo de alegre.",
+    "options": [
+      {
+        "id": "a",
+        "label": "contenta"
+      },
+      {
+        "id": "b",
+        "label": "oscura"
+      },
+      {
+        "id": "c",
+        "label": "rápida"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Alegre y contenta tienen un significado parecido.",
+    "difficulty": 1,
+    "tags": [
+      "vocabulario",
+      "sinonimos"
+    ],
+    "storyTitle": "Portal de los Colores · pista 15",
+    "storyBody": "El portal susurra una emoción y Angela busca una palabra parecida para entenderla."
+  },
+  {
+    "id": "puente-016",
+    "worldId": "puente-3-4",
+    "skillId": "ortografia-mayusculas",
+    "type": "detect-error",
+    "prompt": "Detecta la frase con error de mayúscula.",
+    "options": [
+      {
+        "id": "a",
+        "label": "Angela llegó al Reino."
+      },
+      {
+        "id": "b",
+        "label": "arcoiris esperaba en la puerta."
+      },
+      {
+        "id": "c",
+        "label": "La mochila brilló."
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "Arcoiris es nombre propio del unicornio y debe empezar con mayúscula.",
+    "difficulty": 2,
+    "tags": [
+      "ortografia",
+      "mayusculas"
+    ],
+    "storyTitle": "Portal de los Colores · pista 16",
+    "storyBody": "Una señal escrita deprisa esconde un error de mayúscula que bloquea la puerta."
+  },
+  {
+    "id": "puente-017",
+    "worldId": "puente-3-4",
+    "skillId": "comprension-resumen",
+    "type": "writing-prompt",
+    "prompt": "Escribe en voz baja una frase que resuma por qué Angela ayuda a Arcoiris.",
+    "options": [
+      {
+        "id": "done",
+        "label": "He escrito mi frase"
+      }
+    ],
+    "correctAnswer": "done",
+    "explanation": "Un buen resumen dice lo esencial con tus palabras.",
+    "difficulty": 2,
+    "tags": [
+      "escritura",
+      "resumen"
+    ],
+    "storyTitle": "Portal de los Colores · pista 17",
+    "storyBody": "Angela escribe una frase propia para explicar por qué quiere ayudar a Arcoiris."
+  },
+  {
+    "id": "puente-018",
+    "worldId": "puente-3-4",
+    "skillId": "oralidad-lectura",
+    "type": "oral-prompt",
+    "prompt": "Lee esta frase en voz alta: “El Reino Arcoiris necesita palabras cuidadas”.",
+    "options": [
+      {
+        "id": "done",
+        "label": "Lo he leído en voz alta"
+      }
+    ],
+    "correctAnswer": "done",
+    "explanation": "Leer en voz alta ayuda a cuidar pausas, claridad y entonación.",
+    "difficulty": 1,
+    "tags": [
+      "oralidad",
+      "lectura"
+    ],
+    "storyTitle": "Portal de los Colores · pista 18",
+    "storyBody": "Antes de cruzar, Angela lee en voz alta para que el portal reconozca su voz."
+  },
+  {
+    "id": "puente-019",
+    "worldId": "puente-3-4",
+    "skillId": "gramatica-sujeto",
+    "type": "classify",
+    "prompt": "En “La carta brillante apareció”, ¿cuál es el sujeto?",
+    "options": [
+      {
+        "id": "a",
+        "label": "La carta brillante"
+      },
+      {
+        "id": "b",
+        "label": "apareció"
+      },
+      {
+        "id": "c",
+        "label": "brillante apareció"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "El sujeto es quién realiza o protagoniza la acción: la carta brillante.",
+    "difficulty": 2,
+    "tags": [
+      "gramatica",
+      "sujeto"
+    ],
+    "storyTitle": "Portal de los Colores · pista 19",
+    "storyBody": "La carta brillante pregunta quién protagoniza la acción antes de soltar la última chispa."
+  },
+  {
+    "id": "puente-020",
+    "worldId": "puente-3-4",
+    "skillId": "comprension-inferencia",
+    "type": "minigame",
+    "prompt": "Pista rápida: si la puerta se ilumina después de leer bien, ¿qué ha conseguido Angela?",
+    "options": [
+      {
+        "id": "a",
+        "label": "Avanzar en la misión"
+      },
+      {
+        "id": "b",
+        "label": "Perder el mapa"
+      },
+      {
+        "id": "c",
+        "label": "Cerrar el portal"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "La luz de la puerta indica que Angela ha comprendido la pista y puede avanzar.",
+    "difficulty": 2,
+    "tags": [
+      "lectura",
+      "inferencia"
+    ],
+    "storyTitle": "Portal de los Colores · pista 20",
+    "storyBody": "El portal se abre del todo y Angela decide qué significa la luz que acaba de aparecer."
+  },
+  {
+    "id": "ortografia-017",
+    "worldId": "ortografia",
+    "skillId": "ortografia-h",
+    "type": "fill-gap",
+    "prompt": "Completa la palabra correcta: _ada madrina.",
+    "options": [
+      {
+        "id": "a",
+        "label": "h"
+      },
+      {
+        "id": "b",
+        "label": "sin h"
+      },
+      {
+        "id": "c",
+        "label": "v"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Hada se escribe con h inicial.",
+    "difficulty": 1,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "h"
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 17",
+    "storyBody": "En la sala de las haches, un hada guía a Angela hacia la palabra correcta."
+  },
+  {
+    "id": "ortografia-018",
+    "worldId": "ortografia",
+    "skillId": "ortografia-puntuacion",
+    "type": "detect-error",
+    "prompt": "Detecta la frase que necesita signos de interrogación.",
+    "options": [
+      {
+        "id": "a",
+        "label": "Dónde está la tilde perdida"
+      },
+      {
+        "id": "b",
+        "label": "La torre brilló al amanecer."
+      },
+      {
+        "id": "c",
+        "label": "Angela subió despacio."
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Una pregunta directa debe escribirse con signos de interrogación: ¿Dónde está la tilde perdida?",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-002",
+    "tags": [
+      "ortografia",
+      "puntuacion"
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 18",
+    "storyBody": "Una pregunta sin signos bloquea el balcón y Angela la despierta con la puntuación adecuada."
+  },
+  {
+    "id": "ortografia-019",
+    "worldId": "ortografia",
+    "skillId": "ortografia-silabas",
+    "type": "order",
+    "prompt": "Ordena las sílabas para formar “teléfono”.",
+    "options": [
+      {
+        "id": "a",
+        "label": "te"
+      },
+      {
+        "id": "b",
+        "label": "lé"
+      },
+      {
+        "id": "c",
+        "label": "fo"
+      },
+      {
+        "id": "d",
+        "label": "no"
+      }
+    ],
+    "correctAnswer": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Teléfono se divide en sílabas así: te-lé-fo-no.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-001",
+    "tags": [
+      "ortografia",
+      "silabas"
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 19",
+    "storyBody": "Las sílabas de teléfono flotan separadas y Angela las ordena en la cuerda sonora."
+  },
+  {
+    "id": "ortografia-020",
+    "worldId": "ortografia",
+    "skillId": "ortografia-dictado",
+    "type": "writing-prompt",
+    "prompt": "Copia cuidando las tildes: “El pájaro encontró azúcar en el árbol”.",
+    "options": [
+      {
+        "id": "done",
+        "label": "Lo he copiado con cuidado"
+      }
+    ],
+    "correctAnswer": "done",
+    "explanation": "Pájaro, azúcar y árbol llevan tilde por reglas distintas; fíjate en cada una.",
+    "difficulty": 2,
+    "textContentId": "texto-ortografia-torre-001",
+    "tags": [
+      "ortografia",
+      "dictado"
+    ],
+    "storyTitle": "Torre de la Ortografía · pista 20",
+    "storyBody": "Antes de salir, Angela copia una frase con tildes para devolver brillo a la torre."
+  },
+  {
+    "id": "gramatica-017",
+    "worldId": "gramatica",
+    "skillId": "gramatica-concordancia",
+    "type": "fill-gap",
+    "prompt": "Completa la concordancia: “Las pistas ___ escondidas”.",
+    "options": [
+      {
+        "id": "a",
+        "label": "están"
+      },
+      {
+        "id": "b",
+        "label": "está"
+      },
+      {
+        "id": "c",
+        "label": "estoy"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Pistas está en plural, por eso el verbo debe ir en plural: están.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "concordancia"
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 17",
+    "storyBody": "Las pistas escondidas piden un verbo en plural para sonar correctas."
+  },
+  {
+    "id": "gramatica-018",
+    "worldId": "gramatica",
+    "skillId": "gramatica-clases-palabras",
+    "type": "classify",
+    "prompt": "Clasifica “rápidamente”. ¿Qué tipo de palabra es?",
+    "options": [
+      {
+        "id": "a",
+        "label": "adverbio"
+      },
+      {
+        "id": "b",
+        "label": "sustantivo"
+      },
+      {
+        "id": "c",
+        "label": "determinante"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Rápidamente indica cómo se hace una acción; es un adverbio.",
+    "difficulty": 3,
+    "textContentId": "texto-gramatica-castillo-002",
+    "tags": [
+      "gramatica",
+      "adverbios"
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 18",
+    "storyBody": "Una palabra terminada en mente explica cómo avanza Angela por el pasillo."
+  },
+  {
+    "id": "gramatica-019",
+    "worldId": "gramatica",
+    "skillId": "gramatica-orden-oracion",
+    "type": "order",
+    "prompt": "Ordena para formar una oración correcta.",
+    "options": [
+      {
+        "id": "a",
+        "label": "El unicornio"
+      },
+      {
+        "id": "b",
+        "label": "recuperó"
+      },
+      {
+        "id": "c",
+        "label": "su brillo"
+      }
+    ],
+    "correctAnswer": [
+      "a",
+      "b",
+      "c"
+    ],
+    "explanation": "La oración correcta es: El unicornio recuperó su brillo.",
+    "difficulty": 2,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "oraciones"
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 19",
+    "storyBody": "El unicornio recupera su brillo cuando la oración queda en orden."
+  },
+  {
+    "id": "gramatica-020",
+    "worldId": "gramatica",
+    "skillId": "gramatica-predicado",
+    "type": "detect-error",
+    "prompt": "¿Qué opción NO es un predicado completo?",
+    "options": [
+      {
+        "id": "a",
+        "label": "abrió la puerta secreta"
+      },
+      {
+        "id": "b",
+        "label": "cantaron en el patio"
+      },
+      {
+        "id": "c",
+        "label": "la llave dorada"
+      }
+    ],
+    "correctAnswer": "c",
+    "explanation": "“La llave dorada” es un grupo nominal, no dice una acción completa.",
+    "difficulty": 3,
+    "textContentId": "texto-gramatica-castillo-001",
+    "tags": [
+      "gramatica",
+      "predicado"
+    ],
+    "storyTitle": "Castillo de la Gramática · pista 20",
+    "storyBody": "La llave dorada no cuenta ninguna acción, y Angela descubre que no es predicado completo."
+  },
+  {
+    "id": "comprension-017",
+    "worldId": "comprension",
+    "skillId": "comprension-secuencia",
+    "type": "order",
+    "prompt": "Ordena lo que hace Angela para entender una pista.",
+    "options": [
+      {
+        "id": "a",
+        "label": "lee despacio"
+      },
+      {
+        "id": "b",
+        "label": "subraya datos"
+      },
+      {
+        "id": "c",
+        "label": "saca una conclusión"
+      }
+    ],
+    "correctAnswer": [
+      "a",
+      "b",
+      "c"
+    ],
+    "explanation": "Primero se lee, después se buscan datos y finalmente se concluye.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "secuencia"
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 17",
+    "storyBody": "Angela ordena los pasos para comprender: leer, buscar datos y sacar una conclusión."
+  },
+  {
+    "id": "comprension-018",
+    "worldId": "comprension",
+    "skillId": "comprension-vocabulario",
+    "type": "fill-gap",
+    "prompt": "Completa el sentido: “Una pista escondida es una pista ___”.",
+    "options": [
+      {
+        "id": "a",
+        "label": "oculta"
+      },
+      {
+        "id": "b",
+        "label": "ruidosa"
+      },
+      {
+        "id": "c",
+        "label": "salada"
+      }
+    ],
+    "correctAnswer": "a",
+    "explanation": "Escondida y oculta son palabras de significado parecido.",
+    "difficulty": 1,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "vocabulario"
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 18",
+    "storyBody": "Una pista escondida se vuelve clara cuando Angela encuentra un sinónimo adecuado."
+  },
+  {
+    "id": "comprension-019",
+    "worldId": "comprension",
+    "skillId": "comprension-inferencia",
+    "type": "writing-prompt",
+    "prompt": "Escribe una inferencia: ¿por qué Angela mira dos veces la misma frase?",
+    "options": [
+      {
+        "id": "done",
+        "label": "He escrito mi inferencia"
+      }
+    ],
+    "correctAnswer": "done",
+    "explanation": "Releer ayuda a descubrir pistas que no se ven en la primera lectura.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-002",
+    "tags": [
+      "lectura",
+      "inferencia",
+      "escritura"
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 19",
+    "storyBody": "Angela escribe su propia inferencia después de releer la frase difícil."
+  },
+  {
+    "id": "comprension-020",
+    "worldId": "comprension",
+    "skillId": "comprension-detalle",
+    "type": "detect-error",
+    "prompt": "Detecta el detalle que NO aparece en el valle.",
+    "options": [
+      {
+        "id": "a",
+        "label": "luciérnagas que forman caminos"
+      },
+      {
+        "id": "b",
+        "label": "una nave espacial plateada"
+      },
+      {
+        "id": "c",
+        "label": "pistas escondidas en textos"
+      }
+    ],
+    "correctAnswer": "b",
+    "explanation": "La nave espacial no pertenece al texto del valle; es un detalle inventado.",
+    "difficulty": 2,
+    "textContentId": "texto-comprension-valle-001",
+    "tags": [
+      "lectura",
+      "detalle"
+    ],
+    "storyTitle": "Valle de la Comprensión · pista 20",
+    "storyBody": "Antes de salir del valle, detecta el detalle inventado que no aparece en el texto."
   }
 ]

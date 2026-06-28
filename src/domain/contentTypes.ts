@@ -57,6 +57,8 @@ export interface Activity {
   skillId: string;
   type: ActivityType;
   prompt: string;
+  storyTitle?: string;
+  storyBody?: string;
   options?: ActivityOption[];
   correctAnswer?: string | string[];
   explanation: string;

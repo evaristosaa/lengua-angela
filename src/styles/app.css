@@ -3412,9 +3412,9 @@ em,
   position: relative;
   display: grid;
   justify-self: center;
-  grid-template-rows: auto minmax(0, auto) minmax(0, 1fr);
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
   align-content: start;
-  gap: clamp(0.7rem, 1.8vh, 1rem);
+  gap: clamp(0.55rem, 1.4vh, 0.85rem);
   min-height: 0;
   margin-top: 0;
   overflow: hidden;
@@ -3424,37 +3424,99 @@ em,
 
 .mission-page .progress-line {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
   align-items: center;
-  gap: clamp(0.45rem, 1vw, 0.75rem);
+  gap: clamp(0.38rem, 0.95vw, 0.7rem);
+  grid-row: 4;
+  align-self: end;
+  justify-self: stretch;
+  width: 100%;
+  max-width: 100%;
   margin-bottom: 0;
-  padding: 0.46rem 0.62rem;
+  padding: 0.14rem 0.3rem;
+  border-width: 2px;
+  border-radius: 8px;
+  box-shadow: 0 2px 0 #111827;
+  font-size: clamp(0.62rem, 1.25vw, 0.78rem);
 }
 
 .challenge-track {
+  position: relative;
   display: grid;
-  grid-template-columns: repeat(12, minmax(1.65rem, 1fr));
-  gap: 0.22rem;
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+  gap: clamp(0.08rem, 0.28vw, 0.14rem);
   min-width: 0;
+  overflow: hidden;
+}
+
+.challenge-track::before {
+  content: "";
+  position: absolute;
+  left: clamp(0.45rem, 1vw, 0.6rem);
+  right: clamp(0.45rem, 1vw, 0.6rem);
+  top: 50%;
+  height: 2px;
+  background: rgba(17, 24, 39, 0.36);
+  transform: translateY(-50%);
+}
+
+.challenge-track--left::after,
+.challenge-track--right::after {
+  content: "";
+  position: absolute;
+  top: calc(50% - 0.28rem);
+  width: 0.55rem;
+  height: 0.55rem;
+  border: solid rgba(17, 24, 39, 0.42);
+  border-width: 2px 2px 0 0;
+}
+
+.challenge-track--left::after {
+  right: 0.05rem;
+  transform: rotate(45deg);
+}
+
+.challenge-track--right::after {
+  left: 0.05rem;
+  transform: rotate(225deg);
+}
+
+.challenge-center {
+  display: grid;
+  place-items: center;
+  min-width: clamp(5rem, 8vw, 6.4rem);
+  min-height: clamp(1.25rem, 2.8vh, 1.55rem);
+  border: 2px solid #111827;
+  border-radius: 8px;
+  background: linear-gradient(180deg, #fffdf2 0%, #ffe46b 100%);
+  box-shadow: 0 2px 0 #111827;
+  color: #111827;
+  font-weight: 1000;
+  line-height: 1;
+  text-align: center;
 }
 
 .challenge-dot {
+  position: relative;
+  z-index: 1;
   display: grid;
   place-items: center;
-  aspect-ratio: 1;
+  justify-self: center;
+  width: clamp(0.76rem, 1.35vw, 1.08rem);
+  height: clamp(0.76rem, 1.35vw, 1.08rem);
   min-width: 0;
-  border: 2px solid #111827;
+  border: 1.5px solid #111827;
   border-radius: 999px;
   background: #fffdf2;
   color: #111827;
-  font-size: clamp(0.66rem, 1.5vw, 0.86rem);
+  font-size: clamp(0.48rem, 1vw, 0.62rem);
   font-weight: 1000;
   line-height: 1;
 }
 
 .challenge-dot--current {
-  outline: 3px solid #ffdf59;
-  outline-offset: 1px;
+  outline: 2px solid #ffdf59;
+  outline-offset: 0;
 }
 
 .challenge-dot--correct {
@@ -3485,11 +3547,150 @@ em,
   align-self: start;
 }
 
+.mission-page .option-list--writing-prompt,
+.mission-page .option-list--oral-prompt {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.mission-page .option-list--fill-gap,
+.mission-page .option-list--classify,
+.mission-page .option-list--detect-error,
+.mission-page .option-list--minigame {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.order-challenge {
+  display: grid;
+  gap: clamp(0.42rem, 1vw, 0.65rem);
+  align-self: start;
+  min-width: 0;
+}
+
+.order-target {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: clamp(0.32rem, 0.8vw, 0.5rem);
+  min-width: 0;
+}
+
+.order-slot {
+  display: grid;
+  place-items: center;
+  min-height: clamp(2.25rem, 5.3vh, 3.1rem);
+  border: 3px dashed rgba(17, 24, 39, 0.58);
+  border-radius: 8px;
+  background: rgba(255, 253, 242, 0.78);
+  color: #111827;
+  font-size: clamp(0.7rem, 1.55vw, 0.95rem);
+  font-weight: 1000;
+  line-height: 1.1;
+  text-align: center;
+  padding: 0.22rem;
+}
+
+.order-slot--filled {
+  border-style: solid;
+  background: #dff7ff;
+}
+
+.option-list--chips .option {
+  min-height: clamp(2.9rem, 6.5vh, 3.9rem);
+}
+
+.compact-action {
+  justify-self: center;
+  min-height: 2.4rem;
+  padding: 0.35rem 0.8rem;
+  font-size: clamp(0.68rem, 1.35vw, 0.82rem);
+}
+
 .mission-page .option {
   min-height: clamp(3.8rem, 8.4vh, 5rem);
   padding: 0.45rem 0.55rem;
   font-size: clamp(0.82rem, 1.8vw, 1.05rem);
   line-height: 1.15;
+}
+
+.mission-page--result {
+  display: block;
+  overflow-y: auto;
+  padding-bottom: clamp(0.6rem, 1.5vh, 0.9rem);
+}
+
+.mission-page--result > .angela-guide {
+  min-height: 0;
+  grid-template-columns: clamp(4.5rem, 10vw, 6.5rem) minmax(0, 1fr);
+  padding: clamp(0.55rem, 1.4vw, 0.85rem);
+}
+
+.mission-page--result > .angela-guide .angela-portrait {
+  width: 100%;
+  max-height: clamp(4.3rem, 13vh, 6.3rem);
+  aspect-ratio: 1;
+}
+
+.mission-page--result > .angela-guide .angela-portrait img {
+  padding: 0.08rem;
+  object-fit: scale-down;
+  object-position: center bottom;
+}
+
+.mission-page--result > .angela-guide .eyebrow {
+  font-size: clamp(0.72rem, 1.5vw, 0.9rem);
+}
+
+.mission-page--result > .angela-guide p:last-child {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: clamp(0.82rem, 1.75vw, 1rem);
+  line-height: 1.16;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.mission-page--result .result-panel {
+  display: grid;
+  gap: clamp(0.45rem, 1.2vh, 0.75rem);
+  align-content: start;
+  min-height: max-content;
+  height: auto;
+  padding: clamp(0.65rem, 1.5vw, 0.95rem);
+  overflow: visible;
+}
+
+.mission-page--result .result-panel h1 {
+  margin: 0;
+  font-size: clamp(1.45rem, 4.2vw, 2.5rem);
+  line-height: 0.98;
+}
+
+.mission-page--result .result-panel p {
+  margin: 0;
+  color: #111827;
+  font-size: clamp(0.86rem, 1.7vw, 1rem);
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+.mission-page--result .action-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(0.35rem, 1vw, 0.6rem);
+}
+
+.mission-page--result .action-row button {
+  min-height: clamp(2.7rem, 6vh, 3.35rem);
+  padding: 0.35rem 0.55rem;
+  font-size: clamp(0.72rem, 1.45vw, 0.9rem);
+}
+
+.mission-page--result .unicorn-progress {
+  margin-top: clamp(0.55rem, 1.4vh, 0.85rem);
+  padding: clamp(0.6rem, 1.45vw, 0.9rem);
+}
+
+.mission-page--result .unicorn-progress h2 {
+  font-size: clamp(1.05rem, 2.2vw, 1.35rem);
 }
 
 .feedback-popover {
@@ -3572,20 +3773,44 @@ em,
   }
 
   .mission-page .progress-line {
-    grid-template-columns: 4.8rem minmax(0, 1fr);
-    gap: 0.32rem;
-    padding: 0.34rem 0.38rem;
-    font-size: 0.76rem;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    gap: 0.24rem;
+    padding: 0.12rem 0.22rem;
+    border-width: 2px;
+    box-shadow: 0 2px 0 #111827;
+    font-size: 0.62rem;
   }
 
   .challenge-track {
-    grid-template-columns: repeat(12, minmax(0, 1fr));
-    gap: 0.12rem;
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+    gap: 0.04rem;
+  }
+
+  .challenge-track::before {
+    left: 0.25rem;
+    right: 0.25rem;
+    height: 1px;
+  }
+
+  .challenge-track--left::after,
+  .challenge-track--right::after {
+    display: none;
+  }
+
+  .challenge-center {
+    min-width: 3.8rem;
+    min-height: 1.1rem;
+    border-width: 1.5px;
+    border-radius: 6px;
+    box-shadow: 0 1.5px 0 #111827;
+    font-size: 0.56rem;
   }
 
   .challenge-dot {
-    border-width: 1.5px;
-    font-size: 0.58rem;
+    width: 0.52rem;
+    height: 0.52rem;
+    border-width: 1px;
+    font-size: 0.42rem;
   }
 
   .mission-page .challenge-badge {
@@ -3601,6 +3826,32 @@ em,
   .mission-page .option-list {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 0.32rem;
+  }
+
+  .mission-page .option-list--writing-prompt,
+  .mission-page .option-list--oral-prompt {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .order-target {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.24rem;
+  }
+
+  .order-slot {
+    min-height: 2.05rem;
+    border-width: 2px;
+    font-size: 0.64rem;
+  }
+
+  .option-list--chips .option {
+    min-height: 2.75rem;
+  }
+
+  .compact-action {
+    min-height: 2rem;
+    padding: 0.22rem 0.62rem;
+    font-size: 0.64rem;
   }
 
   .mission-page .option {
@@ -3627,6 +3878,64 @@ em,
   .feedback-popover {
     padding: 0.7rem;
   }
+
+  .mission-page--result {
+    display: block;
+    height: calc(100svh - 8.8rem);
+    gap: 0.42rem;
+    overflow-y: auto;
+  }
+
+  .mission-page--result > .angela-guide {
+    grid-template-columns: 4.4rem minmax(0, 1fr);
+    gap: 0.45rem;
+    padding: 0.45rem;
+  }
+
+  .mission-page--result > .angela-guide .angela-portrait {
+    max-height: 4.4rem;
+  }
+
+  .mission-page--result > .angela-guide p:last-child {
+    font-size: 0.72rem;
+    line-height: 1.1;
+    -webkit-line-clamp: 3;
+  }
+
+  .mission-page--result .result-panel {
+    gap: 0.32rem;
+    min-height: max-content;
+    height: auto;
+    padding: 0.48rem;
+  }
+
+  .mission-page--result .result-panel h1 {
+    font-size: clamp(1.3rem, 8vw, 1.9rem);
+  }
+
+  .mission-page--result .result-panel p {
+    font-size: 0.72rem;
+  }
+
+  .mission-page--result .action-row {
+    grid-template-columns: 1fr;
+    gap: 0.28rem;
+  }
+
+  .mission-page--result .action-row button {
+    min-height: 2.3rem;
+    font-size: 0.72rem;
+  }
+
+  .mission-page--result .unicorn-progress {
+    margin-top: 0.45rem;
+    padding: 0.5rem;
+  }
+
+  .mission-page--result .reward-track,
+  .mission-page--result .currency-row {
+    gap: 0.32rem;
+  }
 }
 
 @media (min-width: 761px) and (min-height: 781px) {
@@ -3647,6 +3956,10 @@ em,
 @media (max-height: 740px) {
   .mission-page {
     grid-template-rows: minmax(8.4rem, 0.7fr) minmax(0, 1fr);
+  }
+
+  .mission-page--result {
+    display: block;
   }
 
   .mission-brief .angela-portrait {

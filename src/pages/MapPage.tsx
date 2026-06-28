@@ -21,7 +21,7 @@ export default function MapPage({ worlds, missions, progress, onOpenMission }: M
         <section className="map-title-card">
           <p className="eyebrow">Mapa de mundos</p>
           <h1>Reino Arcoiris</h1>
-          <p>Avanza por los 4 mundos: repaso de 3º, ortografía, gramática y comprensión lectora.</p>
+          <p>Avanza por los 4 mundos: portal inicial, ortografía, gramática y comprensión lectora.</p>
         </section>
         <svg className="map-trail" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
           <path d="M14 76 C 23 53, 36 46, 48 54 S 63 70, 74 49 S 75 23, 89 18" />
@@ -71,7 +71,7 @@ function worldIcon(worldId: string): string {
   if (worldId.includes("vocabulario")) return "★";
   if (worldId.includes("escritores")) return "✎";
   if (worldId.includes("oral")) return "♫";
-  return "3º";
+  return "★";
 }
 
 function statusLabel(status: ReturnType<typeof getWorldStatus>): string {

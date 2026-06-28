@@ -3,7 +3,7 @@ import type { LearnerProgress } from "../domain/contentTypes";
 import type { CSSProperties } from "react";
 
 const unicornParts = [
-  { name: "primer color arcoiris", aliases: ["crin arcoiris"], label: "Repaso 3º", symbol: "3º" },
+  { name: "primer color arcoiris", aliases: ["crin arcoiris"], label: "Portal", symbol: "★" },
   { name: "tildes brillantes", aliases: ["alas brillantes"], label: "Ortografía", symbol: "á" },
   { name: "corona de frases", aliases: ["corona dorada"], label: "Gramática", symbol: "ABC" },
   { name: "comprensión lectora", aliases: ["estela mágica", "llave de lectura"], label: "Lectura", symbol: "L" }
